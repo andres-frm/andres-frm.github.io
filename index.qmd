@@ -1,5 +1,5 @@
 ---
-title: "Mi sitio"
+title: "Acerca de mí"
 ---
 
 This is a Quarto website.
