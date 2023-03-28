@@ -1,4 +1,18 @@
-![](IMG_8708.jpg){fig-align="center" width="345"}
+---
+fig-cap-location: bottom
+---
+
+![A drawing of an elephant.](IMG_8708.jpg){fig-align="center" width="345"}
+
+```{css, echo = FALSE}
+.justify {
+  text-align: center !important
+}
+```
+
+::: center
+f
+:::
 
 This is a Quarto website.
 
