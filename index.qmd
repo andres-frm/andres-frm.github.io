@@ -2,7 +2,7 @@
 fig-cap-location: bottom
 ---
 
-![A drawing of an elephant.](IMG_8708.jpg){fig-align="center" width="345"}
+![nos casamos?](IMG_8708.jpg){fig-align="center" width="345"}
 
 ```{css, echo = FALSE}
 .justify {
@@ -10,14 +10,4 @@ fig-cap-location: bottom
 }
 ```
 
-::: center
-f
-:::
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+# porque 2 es mejor que 1
