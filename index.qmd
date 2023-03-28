@@ -4,10 +4,5 @@ fig-cap-location: bottom
 
 ![nos casamos?](IMG_8708.jpg){fig-align="center" width="345"}
 
-```{css, echo = FALSE}
-.justify {
-  text-align: center !important
-}
-```
 
 # porque 2 es mejor que 1
