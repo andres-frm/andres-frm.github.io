@@ -2,7 +2,7 @@
 fig-cap-location: bottom
 ---
 
-![nos casamos?](IMG_8708.jpg){fig-align="center" width="345"}
+![...](IMG_8708.jpg){fig-align="center" width="345"}
 
 
-# porque 2 es mejor que 1
+# ...
