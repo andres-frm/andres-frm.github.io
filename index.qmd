@@ -1,6 +1,4 @@
----
-title: "Acerca de mí"
----
+![](IMG_8708.jpg){fig-align="center" width="345"}
 
 This is a Quarto website.
 

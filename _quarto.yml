@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrés F. Ramírez-Meía"
+  title: "Andres F. Ramirez-Mejia"
+  search: true
   navbar:
     left:
       - href: index.qmd
