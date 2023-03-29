@@ -9,7 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - current_work.qmd
+      - past_work.qmd
 
 format:
   html:
