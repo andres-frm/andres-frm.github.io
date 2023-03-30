@@ -6,15 +6,15 @@ fig-cap-location: bottom
 
 ### Hi!
 
-I'm a PhD candidate in Biological Science at the National University of Tucuman in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucuman's summer.
+I'm a Ph.D candidate in Biological Sciences at the National University of Tucuman in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucuman's summer.
 
 I built this website to share my work and my general interests outside academic formality.
 
 ### My current research
 
-My research is focused on the patterns and mechanisms explaining the contribution of wild and managed species to the pollination of blueberries in the NOA. I'm mainly studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service delivery in blueberry crops.
+My research is focused on the patterns and mechanisms explaining the contribution of wild and managed species to the pollination of blueberries in the NOA. I'm mainly studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service in blueberry crops.
 
-### My researsh interest
+### My research interests
 
 -   Crop pollination
 -   Pollination ecology
@@ -29,7 +29,7 @@ I'm interested in understanding how spatial patterns modulate the functional res
 
 -   Biking
 -   Reading (Dostoyevski, Garcia Marquez, Sabato, and Vasili Grossman are personal friends)
--   Asado or BBQ in english (Despite the ethical conflict inside me, I'm a big meat eater)
+-   Asado, or BBQ in english (Despite the ethical conflict inside me, I'm a big meat eater)
 -   Dark beer (preferably Stout)
 -   Animals in general, but particularly bats, cats and dogs.
 
