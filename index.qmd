@@ -8,7 +8,7 @@ fig-cap-location: bottom
 
 I'm a Ph.D candidate in Biological Sciences at the National University of Tucumán in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucumán's summer.
 
-I built this website to share my work and my general interests outside academic formality.
+I built this website to share my work and my general interests outside academic formality. 
 
 ### My current research
 
