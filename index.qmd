@@ -6,7 +6,7 @@ fig-cap-location: bottom
 
 ### Hi!
 
-I'm a Ph.D candidate in Biological Sciences at the National University of Tucuman in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucuman's summer.
+I'm a Ph.D candidate in Biological Sciences at the National University of Tucumán in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucumán's summer.
 
 I built this website to share my work and my general interests outside academic formality.
 
@@ -28,7 +28,7 @@ I'm interested in understanding how spatial patterns modulate the functional res
 ### What I like/love
 
 -   Biking
--   Reading (Dostoyevski, Garcia Marquez, Sabato, and Vasili Grossman are personal friends)
+-   Reading (Dostoyevski, García Márquez, Sábato, and Vasili Grossman are personal friends)
 -   Asado, or BBQ in english (Despite the ethical conflict inside me, I'm a big meat eater)
 -   Dark beer (preferably Stout)
 -   Animals in general, but particularly bats, cats and dogs.

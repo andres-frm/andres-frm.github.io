@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Andres F. Ramirez-Mejia"
+  title: "Andrés F. Ramírez-Mejía"
   search: true
   navbar:
     left:
