@@ -6,7 +6,7 @@ fig-cap-location: bottom
 
 ### Hi!
 
-I'm a Ph.D candidate in Biological Sciences at the National University of Tucumán in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 Celsius degrees during Tucumán's summer.
+I'm a Ph.D candidate in Biological Sciences at the National University of Tucumán in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 °C during Tucumán's summer.
 
 I built this website to share my work and my general interests outside academic formality. 
 
@@ -18,19 +18,19 @@ My research is focused on the patterns and mechanisms explaining the contributio
 
 -   Crop pollination
 -   Pollination ecology
--   Mammalian ecology
+-   Bats
 -   Functional diversity
 -   Statistics
 -   R programming
 
-I'm interested in understanding how spatial patterns modulate the functional responses of animals and the resulting effect on ecosystem processes and services.
+I'm interested in understanding how spatial patterns modulate the functional responses of animals and the resulting effect on ecosystem processes.
 
 ### What I like/love
 
--   Biking
--   Reading (Dostoyevski, García Márquez, Sábato, and Vasili Grossman are personal friends)
--   Asado --or BBQ in english-- (Despite the ethical conflict inside me, I'm a big meat eater)
--   Dark beer (preferably Stout)
+-   Biking.
+-   Reading (Dostoyevski, García Márquez, Sábato, and Vasili Grossman are personal friends).
+-   Asado --or BBQ in english-- (Despite the ethical conflict inside me, I'm a big meat eater).
+-   Dark beer (preferably Stout).
 -   Animals in general, but particularly bats, cats and dogs.
 
 ![Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){fig-align="center" width="208"}
