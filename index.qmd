@@ -6,24 +6,22 @@ fig-cap-location: bottom
 
 ### Hi!
 
-I'm postdoctoral researcher of [CONICET](https://www.conicet.gov.ar) at the [Institute of Regional Ecology](https://ier.conicet.gov.ar) in Tucumán, Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a Ph.D. fellowship by CONICET to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 °C during Tucumán's summer.
+I'm postdoctoral researcher of [CONICET](https://www.conicet.gov.ar) at the [Institute of Regional Ecology](https://ier.conicet.gov.ar) in Tucumán, Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a Ph.D. fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 °C during Tucumán's summer.
 
-I built this website to share my work and my general interests outside academic formality.
+I created this website to share my work and my general interests outside academic formality.
 
 ### My current research
 
-Currently, I am interested in combining different modeling approaches and field experiments to understand how spatial patterns affect biodiversity and ecosystem services in agricultural landscapes of Northern Argentina. I'm mainly studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service in blueberry crops.
+I am interested in combining different modeling approaches and field experiments to understand how spatial patterns affect biodiversity and ecosystem services in agricultural landscapes of Northern Argentina. Currently, I'm involve in two main projects : **(i)** *developing a control system for pollination service management in blueberry crops*, and **(ii)** *assessing how low opportunity cost areas in large-scale monoculture of citrus, can boost taxonomic and functional diversity of pollinators*. 
+
 
 ### My research interests
 
--   Crop pollination
--   Pollination ecology
--   Bats
--   Functional diversity
--   Statistics
--   R programming
-
-I'm interested in understanding how spatial patterns modulate the functional responses of animals and the resulting effect on ecosystem processes.
+-   Functional diversity and ecosystem services
+-   Pollinators and mammals
+-   Landscape ecology
+-   Data science 
+-   Statistical programming
 
 ### What I like/love
 
@@ -33,4 +31,4 @@ I'm interested in understanding how spatial patterns modulate the functional res
 -   Dark beer (preferably Stout).
 -   Animals in general, but particularly bats, cats and dogs.
 
-![Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){fig-align="center" width="208"}
+![My two 'children', Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){fig-align="center" width="208"}
