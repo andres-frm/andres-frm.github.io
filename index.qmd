@@ -6,13 +6,13 @@ fig-cap-location: bottom
 
 ### Hi!
 
-I'm a Ph.D candidate in Biological Sciences at the National University of Tucumán in Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a CONICET fellowship to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 °C during Tucumán's summer.
+I'm postdoctoral researcher of [CONICET](https://www.conicet.gov.ar) at the [Institute of Regional Ecology](https://ier.conicet.gov.ar) in Tucumán, Argentina. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in mammalian ecology. In 2018 I got a Ph.D. fellowship by CONICET to study crop pollination at Northwestern Argentina; since then, I have been enjoying asado, mate, empanadas and, of course, the 40 °C during Tucumán's summer.
 
-I built this website to share my work and my general interests outside academic formality. 
+I built this website to share my work and my general interests outside academic formality.
 
 ### My current research
 
-My research is focused on the patterns and mechanisms explaining the contribution of wild and managed species to the pollination of blueberries in the NOA. I'm mainly studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service in blueberry crops.
+Currently, I am interested in combining different modeling approaches and field experiments to understand how spatial patterns affect biodiversity and ecosystem services in agricultural landscapes of Northern Argentina. I'm mainly studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service in blueberry crops.
 
 ### My research interests
 
