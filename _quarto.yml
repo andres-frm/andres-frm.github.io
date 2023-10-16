@@ -3,14 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrés F. Ramírez-Mejía"
+  title: "Andrés F. Ramírez-Mejía (BSc, MSc, PhD)"
   search: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - current_work.qmd
+      - cv.qmd
       - past_work.qmd
+      - current_work.qmd
 
 format:
   html:
