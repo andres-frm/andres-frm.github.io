@@ -1,8 +1,8 @@
 ---
-title: "List of publications"
+title: "Publications"
 ---
 
-
+Feel free to contact me if you request a copy or have comments to anny work.
 
 -   Nunes-Silva Patrícia, **Ramírez-Mejía Andrés F.**, Blochtein B, Ramos J, Agostini K, Vieli L, Santanna M, Raguse-Quadros M, Maureen M., Chacoff N P, Cavigliasso P, Blendinger P G., Domingos S. **(2023)**. *Blueberry: pollination and production in South America*. ISBN: 978-65-00-65347-2. DOI: <https://doi.org/10.5281/zenodo.7770381>.
 -   **Ramírez-Mejía A F**, Lomáscolo S & Blendinger P. **(2023)** *Hummingbirds, honeybees, and wild insect pollinators affect yield and berry quality of blueberries depending on cultivar and farm's spatial context*. *Agriculture Ecosystems and Environment*. DOI: <https://doi.org/10.1016/j.agee.2022.108229>

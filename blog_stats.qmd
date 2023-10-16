@@ -2,3 +2,14 @@
 title: "Blogs"
 ---
 
+For about ~7 years, I have written thousands of lines of `R` code for wrangling, exploring, and analyzing data. Some scripts/routins are old and I was still very much to learn, so they probably do things differently (less efficient) than I'd do them now. Still, there is no sense in having them sit in a drawer forever. I use [RPubs](https://rpubs.com) for sharing and explaining (to others and myself) how to fit statistical models and extract insights from data. 
+
+A `**` mark denotes that the script is pending to be updated.
+
+### Frequentis statistics
+
+### Bayes statistics
+
+### Miscelaneus 
+
+-   [Describing and comparing activity patterns in animals**](https://rpubs.com/andresfeli/1099783)
