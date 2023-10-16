@@ -12,6 +12,7 @@ website:
       - cv.qmd
       - past_work.qmd
       - current_work.qmd
+      - blog_stats.qmd
 
 format:
   html:

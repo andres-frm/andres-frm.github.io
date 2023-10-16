@@ -12,7 +12,7 @@ I created this website to share my work and my general interests outside academi
 
 ### My current research
 
-I am interested in combining different modeling approaches and field experiments to understand how spatial patterns affect biodiversity and ecosystem services in agricultural landscapes of Northern Argentina. Currently, I'm involve in two main projects : **(i)** *developing a control system for pollination service management in blueberry crops*, and **(ii)** *assessing how low opportunity cost areas in large-scale monoculture of citrus, can boost taxonomic and functional diversity of pollinators*. 
+I am interested in combining different modeling approaches and field experiments to understand how spatial patterns affect biodiversity and ecosystem services in agricultural landscapes. Currently, I'm mainly involve in two projects : **(i)** *developing a control system for pollination service management in blueberry crops*, and **(ii)** *assessing how low opportunity cost areas in large-scale monoculture of citrus can boost taxonomic and functional diversity of pollinators*. 
 
 
 ### My research interests
@@ -32,4 +32,4 @@ I am interested in combining different modeling approaches and field experiments
 -   Dark beer (preferably Stout).
 -   Animals in general, but particularly bats, cats and dogs.
 
-![My family (from left to right), Natalia, Iris, and Ziggy](photos/intro1.jpg){fig-align="center" width="208"}
+![My family (from left to right), Natalia, Iris, and Ziggy](photos/intro1.jpg){fig-align="center" width=50%}
