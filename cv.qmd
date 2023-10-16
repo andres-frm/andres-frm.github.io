@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+You can find the full version of mi resume [here (english)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia) or [here (spanish)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia).
+
+-   [Google scholar profile](https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=es)
+-   [Research gate profile](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia)
+-   [ORCID](https://orcid.org/0000-0002-1986-2458)
+
+
+![A random photo of me and my mom, and what seems like a Glossophagine bat (Bogotá, Christmas of 2022)](photos/cv1.jpg){fig-align="center" width=30% fig-alt="A drawing of an elephant."}
