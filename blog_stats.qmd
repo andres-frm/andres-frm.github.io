@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Data and models"
 ---
 
 For about ~7 years, I have written thousands of lines of `R` code for wrangling, exploring, and analyzing data. Some scripts/routins are old and I was still very much to learn, so they probably do things differently (less efficient) than I'd do them now. Still, there is no sense in having them sit in a drawer forever. I use [RPubs](https://rpubs.com) for sharing and explaining (to others and myself) how to fit statistical models and extract insights from data. 
