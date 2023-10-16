@@ -2,15 +2,28 @@
 title: "Past projects"
 ---
 
-# Undergraduate 
 
+### Doctoral research
 
+### International Collaboration
 
+### Master's degree
 
-# Master's degree
+**Functional response of bats to urbanization** --- This project took place in the main urbar-rural gradient of the Orinoquia ecoregion in Colombia. We aimed to evaluate: (i) how the ubanization 
 
+### Undergraduate
 
-# Doctoral research
+**Diversity and activity patterns of birds and terrestrial mammals** --- During my undergraduate thesis I studied the effect of *Eucalyptus grandis* reforestation on the abundance and activity patterns of mammals and birds in the central Andes of Colombia. This was my very beginning on science: learning how to ask questions, design field experiments and collecting data, analyzing data, interpreting results, writing and publishing papers. I conducted the project under the supervision of Dr. [Francisco Sánchez](https://scholar.google.com/citations?user=6MC0Yx8AAAAJ&hl=es)
 
+This work resulted in the following publications:
 
-# International Collaboration
+-   **Ramírez-Mejía A F**, Echeverry-Galvis M A, & Sánchez F. **(2021)**. [*Activity and habitat use by understory birds in a native Andean forest and a eucalypt plantation*](https://doi.org/10.1676/19-54). *Wilson Journal of Ornithology*. 132(3): 721-729. DOI: doi.org/10.1676/19-54
+-   **Ramírez-Mejía A F**, & Sánchez F. **(2016)**. [*Activity patterns and habitat use of mammals in an Andean forest and a Eucalyptus reforestation in Colombia*](http://doi.org/10.4404/hystrix-27.2-11319). *Hystrix, the Italian Journal of Mammalogy*, 27(2): 104-110. DOI: doi.org/10.4404/hystrix-27.2-11319.
+-   **Ramírez-Mejía A F**, & Sánchez F. **(2015)**. [*Non-volant mammals in a protected area on the Central Andes of Colombia: new records for the Caldas department and the Chinchiná River basin*](http://dx.doi.org/10.15560/11.2.1582). *Check List*, 11(2):1-6, Article 1582. DOI: dx.doi.org/10.15560/11.2.1582.
+
+Related notes in local newspapers about this work (spanish):
+
+-   [El trabajo de grado de un estudiante de la U. de Caldas permitió observar un puma](https://archivo.lapatria.com/manizales/el-trabajo-de-grado-de-un-estudiante-de-la-u-de-caldas-permitio-observar-un-puma-43964)
+\
+-   [Se observó otro puma en reserva forestal de la Chec](https://archivo.lapatria.com/manizales/se-observo-otro-puma-en-reserva-forestal-de-la-chec-88246)
+

@@ -2,9 +2,8 @@
 title: "Current projects "
 ---
 
-# Control system 
+# Control system
 
 studying: the effect of animal pollination on several productive metrics of the crop; optimal pollination thresholds to maximize blueberry production; individual and population effectiveness of pollinators; and cascading processes affecting pollination service in blueberry crops.
-
 
 # Citrus

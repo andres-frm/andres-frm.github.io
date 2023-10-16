@@ -5,12 +5,22 @@ project:
 website:
   title: "Andrés F. Ramírez-Mejía (BSc, MSc, PhD)"
   search: true
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2023 - A.F. Ramírez-Mejía" 
+    center: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
   navbar:
-    left:
+    background: '#5D6D7E'
+    search: true
+    right:
       - href: index.qmd
         text: Home
       - cv.qmd
-      - past_work.qmd
+      - list_publications.qmd
       - current_work.qmd
       - blog_stats.qmd
 
@@ -22,5 +32,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
 
