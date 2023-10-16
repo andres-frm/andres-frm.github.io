@@ -23,6 +23,7 @@ website:
       - list_publications.qmd
       - current_work.qmd
       - blog_stats.qmd
+      - gallery.qmd
 
 format:
   html:

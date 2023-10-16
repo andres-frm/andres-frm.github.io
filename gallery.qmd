@@ -1,0 +1,16 @@
+---
+title: "Gallery"
+format: html
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![](photos/cv1.jpg){group="my-gallery"}
+
+![](photos/IMG_8708.jpg){group="my-gallery"}
+
+![](photos/IMG_2983.jpg){group="my-gallery"}
+
+![](photos/IMG_1347.jpg){group="my-gallery"}
+
+:::
