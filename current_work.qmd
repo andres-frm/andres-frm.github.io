@@ -1,8 +1,15 @@
 ---
-title: "Current projects "
+title: "Projects "
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 ### Pollination service and blueberry production in Argentina
+
+\
+
+![Hummingbird (*Chlorostilbon lucidus*) visiting blueberry flowers. Tucumán, Argentina.](photos/DSCN3099.jpg){fig-align="center" width="550"}
 
 During the last five years my research has been focused on understanding how spatial patterns interact with farming practices to modulate the provision and contribution of pollination service to blueberries production. Specifically I studied (and continue studying):
 
@@ -16,7 +23,7 @@ iii. Individual and population effectiveness of birds and insects pollinating bl
 iv. Cascading processes affecting pollination service, from landscape to farming area.  
 :::
  
-This work was part of [SURPASS2](https://bee-surpass.org), an international collaboration involving  cross-country studies pollinator monitoring, crop pollination service, invasive species and land cover mapping.
+This work was part of [SURPASS2](https://bee-surpass.org), an international collaboration between Argentina, Brazil, Chile and the UK, researching on crop pollination service, invasive species and land cover mapping in South America.
 
 
 ::: {.border}
@@ -32,14 +39,17 @@ This work was part of [SURPASS2](https://bee-surpass.org), an international coll
 :::
 
 
-### A control systems for managing crop pollination service
+
+### A control systems for managing pollination service in blueberries
+
+\
+
+![Honeybee in a blueberry field. Tucumán, Argentina.](photos/DSCN2567.jpg){fig-align="center" width="550"}
+
+Pollination management in pollinator-dependent crops generally depends on beehives stocked at variable densities. Farmers typically seek to saturate crop flowers with pollinators, while giving little consideration to how different stocking densities actually affect flower-visitation rates and optimal pollination levels depending on the mating crop system. Such an approach would be unthinkable in the case of other crop inputs. Still, although pollination is crucial for securing crop yields and profits, its management is generally based on much more ambiguous criteria, leading to uncertainties about its outcome and actual benefits. In this project I aim to combine different modelling techniques to predict blueberry production based on strength, density and spatial arrangement of honeybee hives in the farm, honeybee pollination effectiveness, and optimal levels and patterns of pollen deposition in the crop. 
+
+This project is part of my current postdoctoral work under the supervision of [Dr Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
+
+### Low opportunity cost areas in large-scale monoculture for pollinator conservation
 
 
-
-Utilizando modelos computacionales planeo desarrollar un sistema de control que permita a los agricultores de arándano decidir cuántas colmenas usar dadas las características de sus cultivos. Contarles por qué y cómo hacerlo, será el objetivo de esta charla.
-
-#### SURPASS
-
-International collaboration [SURPASS2](https://bee-surpass.org)
-
-### Citrus
