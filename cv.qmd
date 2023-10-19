@@ -5,7 +5,7 @@ filters:
 lightbox: auto
 ---
 
-You can find the full version of mi CV [here (english)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia) or [here (spanish)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia). You can reach me at `andresfeliper.mejia@gmail.com`.
+You can find the full version of mi CV [here (english)](https://github.com/andres-frm/curriculum_vitae/blob/main/cv_eng/cv_eng.pdf) or [here (spanish)](https://github.com/andres-frm/curriculum_vitae/blob/main/cvESP/cvESP.pdf). You can reach me at `andresfeliper.mejia@gmail.com`.
 
 -   [Google scholar profile](https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=es)
 -   [Research gate profile](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia)

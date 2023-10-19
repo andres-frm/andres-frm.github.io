@@ -15,8 +15,6 @@ Hopefully, this will be helpful for someone.
 
 ¡Un abrazo!
 
-Andrés
-
 
 ### R programming
 
