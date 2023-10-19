@@ -23,7 +23,7 @@ iii. Individual and population effectiveness of birds and insects pollinating bl
 iv. Cascading processes affecting pollination service, from landscape to farming area.  
 :::
  
-This work was part of [SURPASS2](https://bee-surpass.org), an international collaboration between Argentina, Brazil, Chile and the UK, researching on crop pollination service, invasive species and land cover mapping in South America.
+This work was part of [SURPASS2](https://bee-surpass.org), an international collaboration between institutions of Argentina, Brazil, Chile and the UK, to research crop pollination service, invasive species and land cover mapping in South America.
 
 
 ::: {.border}
