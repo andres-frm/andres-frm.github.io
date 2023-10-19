@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="photos/IMG_8708.jpg" class="img-fluid figure-img" width="319"></p>
+<p><a href="photos/IMG_8708.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="photos/IMG_8708.jpg" class="img-fluid figure-img" width="319"></a></p>
 </figure>
 </div>
 <section id="hi" class="level3">
@@ -170,11 +173,20 @@ ul.task-list li input[type="checkbox"] {
 <li>Dark beer (preferably Stout).</li>
 <li>Animals in general, but particularly bats, cats and dogs.</li>
 </ul>
+<p><em>My Family</em></p>
+<div style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="photos/intro1.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
-<figcaption class="figure-caption">My family (from left to right), Natalia, Iris, and Ziggy</figcaption>
+<p><a href="photos/IMG_4557.jpg" class="lightbox" title="Me and Natalia" data-gallery="my-gallery"><img src="photos/IMG_4557.jpg" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">Me and Natalia</figcaption>
 </figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/IMG_1347.jpg" class="lightbox" title="Iris (left) and Ziggy (rigth)" data-gallery="my-gallery"><img src="photos/IMG_1347.jpg" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">Iris (left) and Ziggy (rigth)</figcaption>
+</figure>
+</div>
 </div>
 
 
@@ -554,6 +566,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":true,"openEffect":"zoom"});</script>
 
 
 

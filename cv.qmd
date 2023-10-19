@@ -1,5 +1,8 @@
 ---
 title: "CV"
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 You can find the full version of mi CV [here (english)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia) or [here (spanish)](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia). You can reach me at `andresfeliper.mejia@gmail.com`.

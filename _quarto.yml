@@ -7,7 +7,7 @@ website:
   search: true
   back-to-top-navigation: true
   page-footer: 
-    left: "Copyright 2023 - A.F. Ramírez-Mejía" 
+    left: "Copyright: 2023 Design by A.F. Ramírez-Mejía" 
     center: 
       - icon: github
         href: https://github.com/

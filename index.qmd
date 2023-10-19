@@ -1,5 +1,7 @@
 ---
-fig-cap-location: bottom
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 ![](photos/IMG_8708.jpg){fig-align="center" width="319"}
@@ -31,4 +33,13 @@ I am interested in combining different modeling approaches and field experiments
 -   Dark beer (preferably Stout).
 -   Animals in general, but particularly bats, cats and dogs.
 
-![My family (from left to right), Natalia, Iris, and Ziggy](photos/intro1.jpg){fig-align="center" width="50%"}
+*My Family*
+
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![Me and Natalia](photos/IMG_4557.jpg){group="my-gallery"}
+
+![Iris (left) and Ziggy (rigth)](photos/IMG_1347.jpg){group="my-gallery"}
+
+:::

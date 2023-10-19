@@ -8,7 +8,7 @@ lightbox: auto
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
 
-![](photos/cv1.jpg){group="my-gallery"}
+![A random photo of me and my mom, and what seems like a Glossophaginae bat (Bogotá, Christmas of 2022)](photos/cv1.jpg){group="my-gallery"}
 
 ![](photos/IMG_8708.jpg){group="my-gallery"}
 
