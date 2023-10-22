@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrés F. Ramírez-Mejía (BSc, MSc, PhD)"
+  title: "Andrés F. Ramírez-Mejía"
   search: true
   back-to-top-navigation: true
   page-footer: 
