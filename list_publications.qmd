@@ -4,6 +4,8 @@ title: "Publications"
 
 Feel free to contact me if you request a copy or have comments to any work.
 
+:::{}
+-   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. *The step by step of pollination service in blueberry crops*. **In press:** *Journal of Applied Ecology*.
 -   Nunes-Silva Patrícia, **Ramírez-Mejía A F.**, Blochtein B, Ramos J, Agostini K, Vieli L, Santanna M, Raguse-Quadros M, Maureen M., Chacoff N P, Cavigliasso P, Blendinger P G., Domingos S. **(2023)**. *Blueberry: pollination and production in South America*. ISBN: 978-65-00-65347-2. DOI: <https://doi.org/10.5281/zenodo.7770381>.
 -   **Ramírez-Mejía A F**, Lomáscolo S & Blendinger P. **(2023)** *Hummingbirds, honeybees, and wild insect pollinators affect yield and berry quality of blueberries depending on cultivar and farm's spatial context*. *Agriculture Ecosystems and Environment*. DOI: <https://doi.org/10.1016/j.agee.2022.108229>
 -   Blendinger P G, Rojas T N, **Ramírez-Mejía A F**, Bender I M A, Lomáscolo S, Magro J, Núñez Montellano M G, Ruggera R A, Valoy M & Ordano M. **(2022)** *Nutrient balance and energy-acquisition effectiveness: do birds adjust their fruit diet to achieve intake targets?* *Functional Ecology*. DOI: <https://doi.org/10.1111/1365-2435.14164>
@@ -12,17 +14,20 @@ Feel free to contact me if you request a copy or have comments to any work.
 -   **Ramírez-Mejía A F**, Urbina-Cardona N, & Sánchez F. **(2020)** *Functional diversity of phyllostomid bats in an urban-rural landscape: a scale-dependent analysis*. *Biotropica*. 52(6): 1168-1182. DOI: <https://doi.org/10.1111/btp.12816>.
 -   **Ramírez-Mejía A F**, & Sánchez F. **(2016)**. *Activity patterns and habitat use of mammals in an Andean forest and a Eucalyptus reforestation in Colombia*. *Hystrix, the Italian Journal of Mammalogy*, 27(2): 104-110. DOI: <http://doi.org/10.4404/hystrix-27.2-11319>.
 -   **Ramírez-Mejía A F**, & Sánchez F. **(2015)**. *Non-volant mammals in a protected area on the Central Andes of Colombia: new records for the Caldas department and the Chinchiná River basin*. *Check List*, 11(2):1-6, Article 1582. DOI: <http://dx.doi.org/10.15560/11.2.1582>.
+:::
 
 ### Articles under review
 
--   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. *The step by step of pollination service in blueberry crops*. **Second round of revision:** *Journal of Applied Ecology*.
-
+:::{}
 -   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. *Optimal pollination thresholds to maximize blueberry production*. **First round of revision:** *Agriculture Ecosystems and Environment*
+:::
 
 ### Theses
 
-**PhD degree** --- (2018 - 2023). The step-by-step of pollination service in blueberry crops: patterns and mechanisms. Thesis advisors: [Dr Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao); independent research CONICET, assistant professor UNT. [Dr Silvia Lomáscolo](https://scholar.google.com/citations?hl=en&user=r9PAo-QAAAAJ); assistant researcher CONICET.
+:::{}
+-   **PhD degree** --- (2018 - 2023). The step-by-step of pollination service in blueberry crops: patterns and mechanisms. Thesis advisors: [Dr Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao); independent research CONICET, assistant professor UNT. [Dr Silvia Lomáscolo](https://scholar.google.com/citations?hl=en&user=r9PAo-QAAAAJ); assistant researcher CONICET.
 
-**Master's degree** --- (2015 - 2017) Seed dispersion and functional diversity of phyllostomid bats in an anthropogenic landscape: a multi-scale approach. Thesis advisors: [Dr Francisco Sánchez](https://scholar.google.com/citations?user=6MC0Yx8AAAAJ&hl=en); Universidad de los Llanos, Colombia. [Dr J. Nicolás Urbina-Cardona](https://scholar.google.com/citations?user=uMBjaFgAAAAJ&hl=en); Pontificia Universidad Javeriana, Colombia.
+-   **Master's degree** --- (2015 - 2017) Seed dispersion and functional diversity of phyllostomid bats in an anthropogenic landscape: a multi-scale approach. Thesis advisors: [Dr Francisco Sánchez](https://scholar.google.com/citations?user=6MC0Yx8AAAAJ&hl=en); Universidad de los Llanos, Colombia. [Dr J. Nicolás Urbina-Cardona](https://scholar.google.com/citations?user=uMBjaFgAAAAJ&hl=en); Pontificia Universidad Javeriana, Colombia.
 
-**Undergraduate** --- (2008 - 2014) Activity, habitat use and richness of mammals in native forest and eucalyptus reforestations in the Colombian Andes. Thesis advisor: [Dr Francisco Sánchez](https://scholar.google.com/citations?user=6MC0Yx8AAAAJ&hl=es); Universidad Militar Nueva Granada, Cundinamarca, Colombia.
+-   **Undergraduate** --- (2008 - 2014) Activity, habitat use and richness of mammals in native forest and eucalyptus reforestations in the Colombian Andes. Thesis advisor: [Dr Francisco Sánchez](https://scholar.google.com/citations?user=6MC0Yx8AAAAJ&hl=es); Universidad Militar Nueva Granada, Cundinamarca, Colombia.
+:::

@@ -20,6 +20,12 @@ Hopefully, this will be helpful for someone.
 
 ### Bayes statistics
 
+:::{}
+
+-   [Introducción a los modelos jerárquicos I](https://rpubs.com/andresfeli/modelosjerarquicos1) (*Introduction to hierarchical models I*)
+
+:::
+
 ### Miscelaneus 
 
--   [Describing and comparing activity patterns in animals**](https://rpubs.com/andresfeli/1099783)
+
