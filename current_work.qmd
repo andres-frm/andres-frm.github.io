@@ -11,10 +11,10 @@ lightbox: auto
 
 ![Hummingbird (*Chlorostilbon lucidus*) visiting blueberry flowers. Tucumán, Argentina.](photos/DSCN3099.jpg){fig-align="center" width="550"}
 
-During the last five years my research has been focused on understanding how spatial patterns interact with farming practices to modulate the provision and contribution of pollination service to blueberries production. Specifically I studied (and continue studying):
+During the last five years, my research has been focused on understanding how spatial patterns interact with farming practices to modulate the provision and contribution of pollination services to blueberry production. Specifically, I studied (and continue studying):
 
 :::{}
-i. Mechanisms driving the effect of animal pollination on the fruit production, fruit quality and nutritional content.
+i. Mechanisms driving the effect of animal pollination on fruit production, fruit quality, and nutritional content.
 
 ii. Optimal pollination thresholds to maximize blueberry production.
 
@@ -29,7 +29,7 @@ This work was part of [SURPASS2](https://bee-surpass.org), an international coll
 ::: {.border}
 *Selected publications (only those were I played a significant role)*
 
--   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. *The step by step of pollination service in blueberry crops*. **Second round of revision:** *Journal of Applied Ecology*.
+-   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. **In press**. *From landscape and pollinators to crop productivity: the step-by-step of pollination service in blueberry crops*. *Journal of Applied Ecology*.
 
 -   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. *Optimal pollination thresholds to maximize blueberry production*. **First round of revision:** *Agriculture Ecosystems and Environment*
 
@@ -40,16 +40,27 @@ This work was part of [SURPASS2](https://bee-surpass.org), an international coll
 
 
 
-### A control systems for managing pollination service in blueberries
+### A control system for managing pollination service in blueberries
 
 \
 
 ![Honeybee in a blueberry field. Tucumán, Argentina.](photos/DSCN2567.jpg){fig-align="center" width="550"}
 
-Pollination management in pollinator-dependent crops generally depends on beehives stocked at variable densities. Farmers typically seek to saturate crop flowers with pollinators, while giving little consideration to how different stocking densities actually affect flower-visitation rates and optimal pollination levels depending on the mating crop system. Such an approach would be unthinkable in the case of other crop inputs. Still, although pollination is crucial for securing crop yields and profits, its management is generally based on much more ambiguous criteria, leading to uncertainties about its outcome and actual benefits. In this project I aim to combine different modelling techniques to predict blueberry production based on strength, density and spatial arrangement of honeybee hives in the farm, honeybee pollination effectiveness, and optimal levels and patterns of pollen deposition in the crop. 
+Pollination management in pollinator-dependent crops generally depends on beehives stocked at variable densities. Farmers typically seek to saturate crop flowers with pollinators, while giving little consideration to how different stocking densities actually affect flower-visitation rates and optimal pollination levels depending on the mating crop system. Such an approach would be unthinkable in the case of other crop inputs. Still, although pollination is crucial for securing crop yields and profits, its management is generally based on much more ambiguous criteria, leading to uncertainties about its outcome and actual benefits. In this project, I aim to combine different modeling techniques to predict blueberry production based on the strength, density, and spatial arrangement of honeybee hives on the farm, honeybee pollination effectiveness, and optimal levels and patterns of pollen deposition in the crop.
 
-This project is part of my current postdoctoral work under the supervision of [Dr Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
+This project is part of my current postdoctoral work under the supervision of [Dr. Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
 
 ### Low opportunity cost areas in large-scale monoculture for pollinator conservation
+
+\
+
+![Large-scale monoculture of citrus and Andean forest at the Northwestern Argentina.](photos/IMG_4926.jpg){fig-align="center" width="550"}
+
+Argentina is one of the leading countries producing citrus, and the Northwestern of the country has the largest cultivated area. Consequently, during the last decades, the agricultural landscape of this region has been severely transformed, being dominated by large-scale monocultures of citrus at the Andean piedmont, followed by non-flowering crops of sugar cane and soybean. Here, we aim to study how non-cultivated areas within citrus farms can boost pollinators' diversity. Specifically, we want to assess how different facets of pollinator diversity are affected by floral resources (composition and abundance), crop margins, and natural areas. Moreover, we aim to disentangle the mechanisms promoting pollinators pollinators persistence within the crop.
+
+This project is conducted in partnership with the NGO [Proyungas](https://proyungas.org.ar) and lead [Dr. Carolina Monmmany](https://scholar.google.com.ar/citations?user=Q-HQOqgAAAAJ&hl=es), [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en), [Dr. Roxana Aragón](https://scholar.google.com/citations?user=_JENFkAAAAAJ&hl=es), and me.
+
+
+
 
 
