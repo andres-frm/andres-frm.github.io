@@ -22,6 +22,10 @@ Hopefully, this will be helpful for someone.
 
 :::{}
 
+- [Distribuciones de probabilidad y ejemplos en `R`](https://rpubs.com/andresfeli/1109337)(*Probability distributions and examples in R*)
+
+- [Introducción modelos lineales generalizados (GLM)]() (*Introduction to generalized linear models (GLM)*)
+
 -   [Introducción a los modelos jerárquicos I](https://rpubs.com/andresfeli/modelosjerarquicos1) (*Introduction to hierarchical models I*)
 
 :::
