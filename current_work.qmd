@@ -58,7 +58,7 @@ This project is part of my current postdoctoral work under the supervision of [D
 
 Argentina is one of the leading countries producing citrus, and the Northwestern of the country has the largest cultivated area. Consequently, during the last decades, the agricultural landscape of this region has been severely transformed, being dominated by large-scale monocultures of citrus at the Andean piedmont, followed by non-flowering crops of sugar cane and soybean. Here, we aim to study how non-cultivated areas within citrus farms can boost pollinators' diversity. Specifically, we want to assess how different facets of pollinator diversity are affected by floral resources (composition and abundance), crop margins, and natural areas. Moreover, we aim to disentangle the mechanisms promoting pollinators pollinators persistence within the crop.
 
-This project is conducted in partnership with the NGO [Proyungas](https://proyungas.org.ar) and lead [Dr. Carolina Monmmany](https://scholar.google.com.ar/citations?user=Q-HQOqgAAAAJ&hl=es), [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en), [Dr. Roxana Aragón](https://scholar.google.com/citations?user=_JENFkAAAAAJ&hl=es), and me.
+This project is conducted in partnership with the NGO [Proyungas](https://proyungas.org.ar) and lead by [Dr. Carolina Monmmany](https://scholar.google.com.ar/citations?user=Q-HQOqgAAAAJ&hl=es), [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en), [Dr. Roxana Aragón](https://scholar.google.com/citations?user=_JENFkAAAAAJ&hl=es), and me.
 
 
 
