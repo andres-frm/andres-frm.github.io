@@ -22,8 +22,9 @@ I am interested in combining different modeling approaches and field experiments
 -   Pollinators and mammals
 -   Landscape ecology
 -   Experimental design
+-   R programming
 -   Data science
--   Statistical programming
+-   Bayesian statistics
 
 ### What I like/love
 
