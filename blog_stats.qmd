@@ -18,7 +18,11 @@ Hopefully, this will be helpful for someone.
 
 ### R programming
 
+`loading...`
+
 ### Bayes statistics
+
+`loading...`
 
 :::{}
 
@@ -32,4 +36,5 @@ Hopefully, this will be helpful for someone.
 
 ### Miscelaneus 
 
+`loading...`
 
