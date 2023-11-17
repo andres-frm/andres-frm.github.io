@@ -20,7 +20,7 @@ Hopefully, this will be helpful for someone.
 
 `loading...`
 
-### Bayes statistics
+### Bayesian statistics
 
 `loading...`
 
