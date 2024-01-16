@@ -19,7 +19,7 @@ Feel free to contact me if you request a copy or have comments to any work.
 ### Articles under review
 
 :::{}
--   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. *Optimal pollination thresholds to maximize blueberry production*. **First round of revision:** *Agriculture Ecosystems and Environment*
+-   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. *Optimal pollination thresholds to maximize blueberry production*. **Second round of revision:** *Agriculture Ecosystems and Environment*
 :::
 
 ### Code and online datasets
