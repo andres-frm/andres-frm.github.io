@@ -17,11 +17,22 @@ Feel free to contact me if you request a copy or have comments to any work.
 -   **Ramírez-Mejía A F**, & Sánchez F. **(2015)**. Non-volant mammals in a protected area on the Central Andes of Colombia: new records for the Caldas department and the Chinchiná River basin. *Check List*, 11(2):1-6, Article 1582. DOI: <http://dx.doi.org/10.15560/11.2.1582>.
 :::
 
+
 ### Articles under review
 
 :::{}
 
 :::
+
+### Manuscript in preparation
+
+:::{}
+-   Low opportunity cost areas in large-scale monoculture for pollinator conservation. **Role: Main author**
+-   Pollination of *Citrus* sp. crops in Argentina. **Role: coauthor, data analysis**
+-   Optimizing measumeremt effort in taxonomic studies on Formicidae. **Role: coauthor, data analysis**
+-   Morphometrics as a tool for understanding morphological variation and supporting taxonomic decisions in *Prionopelta* Mayr, 1866. **Role: coauthor, data analysis**
+:::
+
 
 ### Code and online datasets
 
@@ -32,6 +43,7 @@ Feel free to contact me if you request a copy or have comments to any work.
 
 -   **Ramírez-Mejía, A F**.; Urbina-Cardona, J N; Sánchez, F (2020). Data from: Functional diversity of phyllostomid bats in an urban-rural landscape: a scale-dependent analysis [Dataset]. **Biotropica**. Dryad. <https://doi.org/10.5061/dryad.sn02v6x1p>
 :::
+
 
 ### Theses
 
