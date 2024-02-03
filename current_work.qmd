@@ -29,7 +29,7 @@ This work was part of [SURPASS2](https://bee-surpass.org), an international coll
 ::: {.border}
 *Selected publications (only those were I played a significant role)*
 
--   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. *Optimal pollination thresholds to maximize blueberry production*. **Accepted:** *Agriculture Ecosystems and Environment*
+-   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. **(2024)**. Optimal pollination thresholds to maximize blueberry production. *Agriculture Ecosystems and Environment* <https://doi.org/10.1016/j.agee.2024.108903>
 
 -   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. **2023**. *Landscape structure and farming management interacts to modulate pollination supply and crop production in blueberries*. *Journal of Applied Ecology*. DOI: <https://doi.org/10.1111/1365-2664.14553>
 
