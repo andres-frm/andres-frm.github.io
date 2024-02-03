@@ -39,7 +39,7 @@ I am interested in combining different modeling approaches and field experiments
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
 
-![Me and Natalia](photos/IMG_4557.jpg){group="my-gallery"}
+![Natalia and me](photos/IMG_4557.jpg){group="my-gallery"}
 
 ![Iris (left) and Ziggy (rigth)](photos/IMG_1347.jpg){group="my-gallery"}
 
