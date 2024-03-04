@@ -30,7 +30,7 @@ Hopefully, this will be helpful for someone.
 
 -   [Inferencia estadística: estimación de parámetros](https://rpubs.com/andresfeli/1115788) (*Statistical inference: estimating parameters*)
 
--   [Introducción a los modelos lineales generalizados (GLM)](https://rpubs.com/andresfeli/1110655) (*Introduction to generalized linear models (GLM)*)
+-   [Introducción a los modelos lineales generalizados (GLM I)](https://rpubs.com/andresfeli/glm_i) (*Introduction to generalized linear models (GLM)*)
 
 -   [Introducción a los modelos jerárquicos I](https://rpubs.com/andresfeli/1116532) (*Introduction to hierarchical models I*)
 
