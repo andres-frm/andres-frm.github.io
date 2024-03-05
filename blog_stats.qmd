@@ -32,7 +32,7 @@ Hopefully, this will be helpful for someone.
 
 -   [Introducción a los modelos lineales generalizados (GLM I)](https://rpubs.com/andresfeli/glm_i) (*Introduction to generalized linear models (GLM)*)
 
--   [Introducción a los modelos jerárquicos I](https://rpubs.com/andresfeli/1116532) (*Introduction to hierarchical models I*)
+-   [Introducción a los modelos jerárquicos I](https://rpubs.com/andresfeli/multilevel_I) (*Introduction to hierarchical models I*)
 
 :::
 
