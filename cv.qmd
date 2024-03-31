@@ -5,10 +5,22 @@ filters:
 lightbox: auto
 ---
 
+![](photos/IMG_4568.jpg){fig-align="center" width="25%"}
+
+# Education
+
+:::{}
+- Ph.D. Biological Sciences, 2023. National University of Tucumán, Argentina.
+
+- M.Sc. Conservation and Use of Biodiversity, 2017. Pontifical Javeriana University, Colombia (cum laude).
+
+- B.Sc. Biological Sciences, 2017. University of Caldas, Colombia.
+:::
+
 You can find the full version of mi CV [here (english)](https://github.com/andres-frm/curriculum_vitae/blob/main/cv_eng/cv_eng.pdf) or [here (spanish)](https://github.com/andres-frm/curriculum_vitae/blob/main/cvESP/cvESP.pdf). You can reach me at `andresfeliper.mejia@gmail.com`.
 
 -   [Google scholar profile](https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=es)
 -   [Research gate profile](https://www.researchgate.net/profile/Andres-F-Ramirez-Mejia)
 -   [ORCID](https://orcid.org/0000-0002-1986-2458)
 
-![](photos/IMG_2983.jpg){fig-align="center" width="50%"}
+
