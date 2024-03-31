@@ -5,7 +5,7 @@ filters:
 lightbox: auto
 ---
 
-![](photos/IMG_4568.jpg){fig-align="center" width="35%"}
+![](photos/IMG_4890.jpg){fig-align="center" width="35%"}
 
 ### Education
 
