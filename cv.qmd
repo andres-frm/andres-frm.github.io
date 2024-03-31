@@ -5,9 +5,9 @@ filters:
 lightbox: auto
 ---
 
-![](photos/IMG_4568.jpg){fig-align="center" width="25%"}
+![](photos/IMG_4568.jpg){fig-align="center" width="35%"}
 
-# Education
+### Education
 
 :::{}
 - Ph.D. Biological Sciences, 2023. National University of Tucumán, Argentina.
