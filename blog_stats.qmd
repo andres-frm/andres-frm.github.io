@@ -28,7 +28,7 @@ Hopefully, this will be helpful for someone.
 
 -   [Distribuciones de probabilidad y ejemplos en `R`](https://rpubs.com/andresfeli/1109337) (*Probability distributions and examples in R*)
 
--   [Inferencia estadística: estimación de parámetros](https://rpubs.com/andresfeli/1115788) (*Statistical inference: estimating parameters*)
+-   [Inferencia estadística: estimación de parámetros](https://rpubs.com/andresfeli/est_pars) (*Statistical inference: estimating parameters*)
 
 -   [Introducción a los modelos lineales generalizados (GLM I)](https://rpubs.com/andresfeli/glm_i) (*Introduction to generalized linear models (GLM)*)
 

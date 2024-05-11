@@ -50,6 +50,8 @@ Pollination management in pollinator-dependent crops generally depends on beehiv
 
 This project is part of my current postdoctoral work under the supervision of [Dr. Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
 
+Manuscript in preparation: **How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop**. *Andrés F. Ramírez-Mejía, Natacha P. Chacoff, Pablo Cavigliasso, & Pedro G. Blendinger*
+
 ### Low opportunity cost areas in large-scale monoculture for pollinator conservation
 
 \
