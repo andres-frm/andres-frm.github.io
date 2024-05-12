@@ -17,7 +17,7 @@ lightbox: auto
 - B.Sc. Biological Sciences, 2014. University of Caldas, Colombia.
 :::
 
-# Current position
+### Current position
 
 Postdoctoral researcher with double affiliation: Department of Ecology, Zoology and Genetics, Institute of Biology, Universidade Federal de Pelotas; Department of Zoology & Physiology, University of Wyoming. *Projects*: [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project), and [Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project)
 
