@@ -18,6 +18,9 @@ Hopefully, this will be helpful for someone.
 
 ### R programming
 
+-   [Programación en `R`: indexación (versión en español)](https://rpubs.com/andresfeli/indexacion) (*`R` programming: Indexing [spanish version]*)
+-   [Programación en `R`: indexación (versión en portugés)](https://rpubs.com/andresfeli/indexacao) (*`R` programming: Indexing [portugues version]*)
+
 `loading...`
 
 ### Bayesian statistics
