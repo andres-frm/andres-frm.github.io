@@ -5,6 +5,9 @@ title: "Publications"
 Feel free to contact me if you request a copy or have comments to any work.
 
 :::{}
+-   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. **Ecological modelling** (Accepted).
+-   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports* (Accepted).
+-   Fontanarrosa G., Zarbá L., ... **Ramírez-Mejía A F** ... Piquer-Rodríguez M. (2024). Over twenty years of publications in Ecology: Over-contribution of Women reveals a new dimension of gender bias. *PLOS ONE*.  <https://doi.org/10.1371/journal.pone.0307813>
 -   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. **(2024)**. Optimal pollination thresholds to maximize blueberry production. *Agriculture Ecosystems and Environment* <https://doi.org/10.1016/j.agee.2024.108903>
 -   **Ramírez-Mejía A F**, Blendinger P, Woodcock B, Schmucki R, Escobar L, Morton R, Vieli L, Nunes-Silva P, Lomáscolo S, Morales C, Murúa M, Agostini K, & Chacoff N. **(2023)**. Landscape structure and farming management interacts to modulate pollination supply and crop production in blueberries. *Journal of Applied Ecology*. DOI: <https://doi.org/10.1111/1365-2664.14553>
 -   Nunes-Silva Patrícia, **Ramírez-Mejía A F.**, Blochtein B, Ramos J, Agostini K, Vieli L, Santanna M, Raguse-Quadros M, Maureen M., Chacoff N P, Cavigliasso P, Blendinger P G., Domingos S. **(2023)**. *Blueberry: pollination and production in South America*. ISBN: 978-65-00-65347-2. DOI: <https://doi.org/10.5281/zenodo.7770381>.
@@ -21,15 +24,13 @@ Feel free to contact me if you request a copy or have comments to any work.
 ### Articles under review
 
 :::{}
--   Fontanarrosa, G. ... **Ramírez-Mejía A. F.**, et al. Over twenty years of publications in Ecology: Over-contribution of women reveals a new dimension of gender bias. *PLOSE ONE*. (second round of revission)
+-   `loading...`
 :::
 
 ### Manuscript in preparation
 
 :::{}
--   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P., How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. **Role Main author**
--   **Ramírez-Mejía A. F.**, ... Chacoff N. Low opportunity cost areas in large-scale monoculture for pollinator conservation. **Role: Main author**
--   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. **Role: coauthor, data analysis**
+-   **Ramírez-Mejía A. F.**, Mary De Aquino, Jeferson Vizentin-Bugoni, J. Patrick Kelley, Corey E. Tarwater, Henry S. Pollock, Juliana Wolter. Structure of army-ant-following birds interaction networks is modulated by cumulative rainfall and ant swarm at different temporal scales.
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Morphometrics as a tool for undestanding morphological variation and supporting taxonomic decisions in *Prionopelta* Mayr 1866 (Formicidae: Amblyoponinae). **Role: coauthor, data analysis**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Optimizing measurement effort in taxonomic studies on Formicidae. **Role: coauthor, data analysis**
 :::

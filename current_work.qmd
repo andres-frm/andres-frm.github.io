@@ -5,7 +5,43 @@ filters:
 lightbox: auto
 ---
 
-### Pollination service and blueberry production in Argentina
+
+### Low opportunity cost areas in large-scale monoculture for pollinator conservation (2023-current)
+
+\
+
+![Large-scale monoculture of citrus and Andean forest at the Northwestern Argentina.](photos/IMG_4926.jpg){fig-align="center" width="550"}
+
+Argentina is one of the leading countries producing citrus, and the Northwestern of the country has the largest cultivated area. Consequently, during the last decades, the agricultural landscape of this region has been severely transformed, being dominated by large-scale monocultures of citrus at the Andean piedmont, followed by non-flowering crops of sugar cane and soybean. Here, we aim to study how non-cultivated areas within citrus farms can boost pollinators' diversity. Specifically, we want to assess how different facets of pollinator diversity are affected by floral resources (composition and abundance), crop margins, and natural areas. Moreover, we aim to disentangle the mechanisms promoting pollinators pollinators persistence within the crop.
+
+This project is conducted in partnership with the NGO [Proyungas](https://proyungas.org.ar) and lead by [Dr. Carolina Monmmany](https://scholar.google.com.ar/citations?user=Q-HQOqgAAAAJ&hl=es), [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en), [Dr. Roxana Aragón](https://scholar.google.com/citations?user=_JENFkAAAAAJ&hl=es), and me.
+
+::: {.border}
+*Selected publications (only those were I played a significant role)*
+
+-   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports* (Accepted).
+:::
+
+
+### A control system for managing pollination service in blueberries (2023-2024)
+
+\
+
+![Honeybee in a blueberry field. Tucumán, Argentina.](photos/DSCN2567.jpg){fig-align="center" width="550"}
+
+Pollination management in pollinator-dependent crops generally depends on beehives stocked at variable densities. Farmers typically seek to saturate crop flowers with pollinators, while giving little consideration to how different stocking densities actually affect flower-visitation rates and optimal pollination levels depending on the mating crop system. Such an approach would be unthinkable in the case of other crop inputs. Still, although pollination is crucial for securing crop yields and profits, its management is generally based on much more ambiguous criteria, leading to uncertainties about its outcome and actual benefits. In this project, I aim to combine different modeling techniques to predict blueberry production based on the strength, density, and spatial arrangement of honeybee hives on the farm, honeybee pollination effectiveness, and optimal levels and patterns of pollen deposition in the crop.
+
+This project was part of a past postdoctoral work under the supervision of [Dr. Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
+
+::: {.border}
+*Selected publications (only those were I played a significant role)*
+
+-   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. **Ecological modelling** (Accepted).
+:::
+
+
+
+### Pollination service and blueberry production in Argentina (2018-2023)
 
 \
 
@@ -37,32 +73,3 @@ This work was part of [SURPASS2](https://bee-surpass.org), an international coll
 
 -   **Ramírez-Mejía A F**, Lomáscolo S & Blendinger P. **(2023)** *Hummingbirds, honeybees, and wild insect pollinators affect yield and berry quality of blueberries depending on cultivar and farm's spatial context*. *Agriculture Ecosystems and Environment*. DOI: <https://doi.org/10.1016/j.agee.2022.108229>
 :::
-
-
-
-### A control system for managing pollination service in blueberries
-
-\
-
-![Honeybee in a blueberry field. Tucumán, Argentina.](photos/DSCN2567.jpg){fig-align="center" width="550"}
-
-Pollination management in pollinator-dependent crops generally depends on beehives stocked at variable densities. Farmers typically seek to saturate crop flowers with pollinators, while giving little consideration to how different stocking densities actually affect flower-visitation rates and optimal pollination levels depending on the mating crop system. Such an approach would be unthinkable in the case of other crop inputs. Still, although pollination is crucial for securing crop yields and profits, its management is generally based on much more ambiguous criteria, leading to uncertainties about its outcome and actual benefits. In this project, I aim to combine different modeling techniques to predict blueberry production based on the strength, density, and spatial arrangement of honeybee hives on the farm, honeybee pollination effectiveness, and optimal levels and patterns of pollen deposition in the crop.
-
-This project is part of my current postdoctoral work under the supervision of [Dr. Pedro G. Blendinger](https://scholar.google.com/citations?user=9oyNtX0AAAAJ&hl=en&oi=ao) and [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en).
-
-Manuscript in preparation: **How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop**. *Andrés F. Ramírez-Mejía, Natacha P. Chacoff, Pablo Cavigliasso, & Pedro G. Blendinger*
-
-### Low opportunity cost areas in large-scale monoculture for pollinator conservation
-
-\
-
-![Large-scale monoculture of citrus and Andean forest at the Northwestern Argentina.](photos/IMG_4926.jpg){fig-align="center" width="550"}
-
-Argentina is one of the leading countries producing citrus, and the Northwestern of the country has the largest cultivated area. Consequently, during the last decades, the agricultural landscape of this region has been severely transformed, being dominated by large-scale monocultures of citrus at the Andean piedmont, followed by non-flowering crops of sugar cane and soybean. Here, we aim to study how non-cultivated areas within citrus farms can boost pollinators' diversity. Specifically, we want to assess how different facets of pollinator diversity are affected by floral resources (composition and abundance), crop margins, and natural areas. Moreover, we aim to disentangle the mechanisms promoting pollinators pollinators persistence within the crop.
-
-This project is conducted in partnership with the NGO [Proyungas](https://proyungas.org.ar) and lead by [Dr. Carolina Monmmany](https://scholar.google.com.ar/citations?user=Q-HQOqgAAAAJ&hl=es), [Dr. Natacha Chacoff](https://scholar.google.com.ar/citations?user=rxJBqGcAAAAJ&hl=en), [Dr. Roxana Aragón](https://scholar.google.com/citations?user=_JENFkAAAAAJ&hl=es), and me.
-
-
-
-
-
