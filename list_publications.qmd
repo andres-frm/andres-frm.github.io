@@ -5,7 +5,7 @@ title: "Publications"
 Feel free to contact me if you request a copy or have comments to any work.
 
 :::{}
--   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. *Ecological modelling*, vol 498, article number: <https://doi.org/10.1016/j.ecolmodel.2024.110891>.
+-   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. *Ecological modelling*, vol 498: <https://doi.org/10.1016/j.ecolmodel.2024.110891>.
 -   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports*, vol 14, Article number: 22309.  <https://www.nature.com/articles/s41598-024-73591-6>.
 -   Fontanarrosa G., Zarbá L., ... **Ramírez-Mejía A. F.** ... Piquer-Rodríguez M. **(2024)**. Over twenty years of publications in Ecology: Over-contribution of Women reveals a new dimension of gender bias. *PLOS ONE*.  <https://doi.org/10.1371/journal.pone.0307813>
 -   **Ramírez-Mejía A F**, Chacoff N, Lomáscolo S, Woodcock B, Schmucki R & Blendinger P. **(2024)**. Optimal pollination thresholds to maximize blueberry production. *Agriculture Ecosystems and Environment* <https://doi.org/10.1016/j.agee.2024.108903>

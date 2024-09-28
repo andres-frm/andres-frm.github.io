@@ -19,7 +19,7 @@ This project is conducted in partnership with the NGO [Proyungas](https://proyun
 ::: {.border}
 *Selected publications (only those were I played a significant role)*
 
--   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports* (Accepted).
+-   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports*, vol 14, Article number: 22309.  <https://www.nature.com/articles/s41598-024-73591-6>.
 :::
 
 
@@ -36,7 +36,7 @@ This project was part of a past postdoctoral work under the supervision of [Dr. 
 ::: {.border}
 *Selected publications (only those were I played a significant role)*
 
--   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. **Ecological modelling** (Accepted).
+-   **Ramírez-Mejía A. F.**, Chacoff N., Cavigliasso P., Blendinger P. **(2024)**. How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop. *Ecological modelling*, vol 498: <https://doi.org/10.1016/j.ecolmodel.2024.110891>.
 :::
 
 
