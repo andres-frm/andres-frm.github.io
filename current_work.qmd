@@ -5,6 +5,21 @@ filters:
 lightbox: auto
 ---
 
+# Current projects
+
+### Effects of biotic and abiotic factors modulating the structure of non-thropic interaction networks in tropical forest
+
+\
+
+![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/figure1.jpg){fig-align="center" width="550"}
+
+Ecological networks are dynamic systems governed by periodical biotic and abiotic processes. Such factors operate at particular temporal scales and involve synergies that drive community structure and ecosystem functioning. In this research, we studied how the direct and indirect effects of biotic and abiotic factors affected the structure of non-trophic interaction networks in tropical forests. To do so, we used ant-follower birds as a model system: a bird aggregation specialized in following army ants to increase its foraging efficiency. 
+
+This research is part of the project [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project) led by [Dr. Corey Tarwater] (https://www.tarwaterlab.com/team-members). Overall, we use observational and manipulative experiments and advanced modeling techniques to understand the factors responsible for structuring ant-followers groups in Panama's tropical forest. 
+
+You can find a press article about the project [here](https://stri.si.edu/story/following-swarm), and a very nice video about the fieldwork [here](https://www.youtube.com/watch?v=RGPsXSMErWE).
+
+This research is part of my work at the [Vizentin-Bugoni Lab](https://sites.google.com/site/vizentinbugoni/).
 
 ### Low opportunity cost areas in large-scale monoculture for pollinator conservation (2023-current)
 
@@ -22,6 +37,7 @@ This project is conducted in partnership with the NGO [Proyungas](https://proyun
 -   Monasterologo, M, **Ramírez-Mejía A. F.**, et al. **(2024)**. Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar. *Scientific reports*, vol 14, Article number: 22309.  <https://www.nature.com/articles/s41598-024-73591-6>.
 :::
 
+# Past projects
 
 ### A control system for managing pollination service in blueberries (2023-2024)
 

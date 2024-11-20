@@ -30,7 +30,9 @@ Feel free to contact me if you request a copy or have comments to any work.
 ### Manuscript in preparation
 
 :::{}
--   **Ramírez-Mejía A. F.**, Mary De Aquino, Jeferson Vizentin-Bugoni, J. Patrick Kelley, Corey E. Tarwater, Henry S. Pollock, Juliana Wolter. Structure of army-ant-following birds interaction networks is modulated by cumulative rainfall and ant swarm at different temporal scales.
+-   **Ramírez-Mejía A. F.**, Mary De Aquino, Jeferson Vizentin-Bugoni, J. Patrick Kelley, Corey E. Tarwater, Henry S. Pollock, Juliana Wolter. Structure of army-ant-following birds interaction networks is modulated by cumulative rainfall and ant swarm at different temporal scales. **Role: first author**
+-   **Ramírez-Mejía A. F.** Rarity and commonness in Neotropical bats: the role of the environment and species-level hypervolume niche. **Role: first author**
+-   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Morphometrics as a tool for undestanding morphological variation and supporting taxonomic decisions in *Prionopelta* Mayr 1866 (Formicidae: Amblyoponinae). **Role: coauthor, data analysis**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Optimizing measurement effort in taxonomic studies on Formicidae. **Role: coauthor, data analysis**
 :::
