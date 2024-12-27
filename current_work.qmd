@@ -7,7 +7,7 @@ lightbox: auto
 
 # Current projects
 
-### Effects of biotic and abiotic factors modulating the structure of non-thropic interaction networks in tropical forest
+### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forest
 
 \
 
