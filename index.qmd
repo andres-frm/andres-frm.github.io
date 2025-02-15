@@ -1,4 +1,5 @@
 ---
+title: "About me"
 filters:
    - lightbox
 lightbox: auto
@@ -8,36 +9,38 @@ lightbox: auto
 
 ### Hi!
 
-I'm a postdoctoral researcher at the  [Vizentin-Bugoni Lab](https://sites.google.com/site/vizentinbugoni/) (Institute of Biology, UFPel) in Pelotas (RS), Brazil. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in community ecology, species interaction, ecosystem processes and ecological modeling.
+I'm a postdoctoral researcher at the  [Vizentin-Bugoni Lab](https://sites.google.com/site/vizentinbugoni/) (Institute of Biology, UFPel) in Pelotas (RS), Brazil. I born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in community ecology, species interaction, ecosystem processes and ecological modeling.
 
 I created this website to share my work and my general interests outside academic formality.
 
-### Current research
+### Research thopic
 
-I am interested in using quantitative methods and field experiments to study how spatial and temporal patterns affect biodiversity, species interactions and the consequences for ecosystem processes. Currently, I'm mainly involve in two projects : [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project), and [Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project).
+I am an ecologist with a deep curiosity for understanding how species interactions and functional diversity mediate ecological processes. My background has involved mammals, birds, and pollinators as model systems and the use of quantitative methods and field experiments to address my questions. During my PhD, I studied the mechanisms that regulate the contribution of pollinators to the production of pollination-dependent crops in Argentina (South America). This research had a deep focus on developing management strategies for the pollination service to improve crop productivity. I am a collaborator in projects studying how within-farm spatial management can promote pollinator conservation in large-scale crops, and the factors modulating the local congregation of honeybee males in agricultural landscapes. Currently, I am mainly involved in two projects: (i) disentangling biotic and abiotic factors affecting non-trophic interactions of tropical birds in Panama (see [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project)), and (ii) exploring the mechanisms explaining temporal dynamics of seed dispersal networks in Hawaii (see [Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project)).
+
 
 ### Research interests
 
--   Functional diversity and ecosystem services
+-   Ecological interactions
+-   Pollination and frugivory
+-   Ecosystem services
 -   Community ecology
--   Species interactions
--   Pollinators and mammal ecology
+-   Functional diversity
 -   R programming
--   Data science
 -   Bayesian statistics
 
 ### What I like
 
 -   Biking.
 -   Literature (Dostoyevski, García Márquez, Sábato, and Vasili Grossman are personal friends).
--   Asado --BBQ in english.
 -   Dark beer.
 -   Animals in general, but particularly pollinators, bats, cats and dogs.
 
-*My Family*
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
-![Natalia and me](photos/IMG_4557.jpg){group="my-gallery"}
+![Bee kiss (Blueberry field, Argentina 2022)](photos/bee_kiss.jpg){group="my-gallery"}
 
-![Iris (left) and Ziggy (rigth)](photos/IMG_1347.jpg){group="my-gallery"}
+![My babies, Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){group="my-gallery"}
+
+
+![*Chlorostilbon lucidus*, (Blueberry field, Argentina 2022)](photos/DSCN3099.jpg){group="my-gallery"}
 :::
