@@ -18,7 +18,7 @@ website:
     search: true
     right:
       - href: index.qmd
-        text: Home
+        text: About me
       - cv.qmd
       - list_publications.qmd
       - current_work.qmd
