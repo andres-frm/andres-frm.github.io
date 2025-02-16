@@ -10,7 +10,7 @@ lightbox: auto
 ### Mechanims explaining temporal dynamics of seed dispersal networks in island ecosystems (2025-current)
 
 ![](photos/bat_network_posterior.gif){fig-align="center" width="275" group="my-gallery"}
-![](photos/time_series.jpg){fig-align="center" width="350" group="my-gallery"}
+![](photos/time_series.jpg){fig-align="center" width="400" group="my-gallery"}
 
 Ecological communities are dynamic organizations of organisms whose structure is a function of environmental and biological cycles affecting species composition and abundance. Such ecological regularities affect species interactions due to changes in the availability of suitable interaction partners, which ultimately impacts ecological processes in which the species are involved. We know little about the temporal dynamic of species interactions, and we lack a mechanistic understanding of how climatic regularities interact with the biological responses of the species to explain the structure of ecological networks. In this project, we will address these questions by studying seed dispersal networks in Hawaiian islands.
 
