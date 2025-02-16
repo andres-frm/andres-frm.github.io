@@ -7,7 +7,7 @@ lightbox: auto
 
 # Current projects
 
-### Mechanims explaining temporal dynamics of seed dispersal networks in island ecosystems (2025-current)
+### Mechanisms explaining temporal dynamics of seed dispersal networks in island ecosystems (2025-current)
 
 ![](photos/bat_network_posterior.gif){fig-align="center" width="275" group="my-gallery"}
 ![](photos/time_series.jpg){fig-align="center" width="400" group="my-gallery"}
@@ -27,7 +27,7 @@ Here are some related papers produced by Jef, Patrick, and Corey:
 
 \
 
-### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forest (2024-current)
+### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forests (2024-current)
 
 ![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/figure1.jpg){fig-align="center" width="550"}
 

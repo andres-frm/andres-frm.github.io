@@ -19,7 +19,7 @@ Hopefully, this will be helpful for someone.
 ### R programming
 
 -   [Programación en `R`: indexación (versión en español)](https://rpubs.com/andresfeli/indexacion) (*`R` programming: Indexing [Spanish version]*)
--   [Programación en `R`: indexación (versión en portugés)](https://rpubs.com/andresfeli/indexacao) (*`R` programming: Indexing [Portuguese version]*)
+-   [Programación en `R`: indexación (versión en portugués)](https://rpubs.com/andresfeli/indexacao) (*`R` programming: Indexing [Portuguese version]*)
 
 `loading...`
 
@@ -41,7 +41,7 @@ Hopefully, this will be helpful for someone.
 
 `loading...`
 
-### Miscelaneus 
+### Miscellaneous 
 
 :::{}
 
