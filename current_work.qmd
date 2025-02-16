@@ -9,6 +9,9 @@ lightbox: auto
 
 ### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forest
 
+![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/bat_network_posterior.gif){fig-align="center" width="550"}
+
+
 \
 
 ![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/figure1.jpg){fig-align="center" width="550"}
