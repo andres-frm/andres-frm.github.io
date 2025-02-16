@@ -15,7 +15,7 @@ I created this website to share my work and my general interests outside academi
 
 ### Research topic
 
-I am an ecologist with a deep curiosity for understanding how species interactions and functional diversity mediate ecological processes. My background has involved mammals, birds, and pollinators as model systems and the use of quantitative methods and field experiments to address my questions. During my PhD, I studied the mechanisms that regulate the contribution of pollinators to the production of pollination-dependent crops in Argentina (South America). This research had a deep focus on developing management strategies for the pollination service to improve crop productivity. I am a collaborator in projects studying how within-farm spatial management can promote pollinator conservation in large-scale crops, and the factors modulating the local congregation of honeybee males in agricultural landscapes. Currently, I am mainly involved in two projects: (i) disentangling biotic and abiotic factors affecting non-trophic interactions of tropical birds in Panama (see [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project)), and (ii) exploring the mechanisms explaining temporal dynamics of seed dispersal networks in Hawaii (see [Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project)).
+I am an ecologist with a deep curiosity for understanding how species interactions and functional diversity mediate ecological processes. My background has involved mammals, birds, and pollinators as model systems and the use of quantitative methods and field experiments to address my questions. During my PhD, I studied the mechanisms that regulate the contribution of pollinators to the production of pollination-dependent crops in Argentina (South America). This research had a deep focus on developing management strategies for the pollination service to improve crop productivity. I am a collaborator in projects studying how within-farm spatial management can promote pollinator conservation in large-scale crops, and the factors modulating the local congregation of honeybee males in agricultural landscapes. Currently, I am mainly involved in two projects: (i) disentangling biotic and abiotic factors affecting non-trophic interactions of tropical birds in Panama ([Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project)), and (ii) exploring the mechanisms explaining temporal dynamics of seed dispersal networks in Hawaii ([Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project)).
 
 
 ### Research interests
@@ -28,19 +28,38 @@ I am an ecologist with a deep curiosity for understanding how species interactio
 -   R programming
 -   Bayesian statistics
 
-### What I like
+### What I like/love
 
 -   Biking.
 -   Literature (Dostoyevski, García Márquez, Sábato, and Vasili Grossman are personal friends).
 -   Dark beer.
 -   Animals in general, but particularly pollinators, bats, cats and dogs.
 
+\
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
 ![Bee kiss (Blueberry field, Argentina 2022)](photos/bee_kiss.jpg){group="my-gallery"}
 
 ![My babies, Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){group="my-gallery"}
 
+![Natalia (my wife) and me (Cafallate - Argentina, 2021)](photos/IMG_8753.jpg){group="my-gallery"}
 
 ![*Chlorostilbon lucidus*, (Blueberry field, Argentina 2022)](photos/DSCN3099.jpg){group="my-gallery"}
+
+
+![A very young undergraduate (Colombian Andes, 2012)](photos/IMG_0049.jpg){group="my-gallery"}
+
+
+![Frailejón, *Espeletia* sp. (páramo ecosystem, Colombia 2008)](photos/GEDC0158.jpg){group="my-gallery"}
+
+![*Phyllostomus elongatus* with a hefty load (Colombian Orinoquia, 2016)](photos/Phyllostomus_elongatus.jpg){group="my-gallery"}
+
+![Pollination experiments in blueberry field (Argentina, 2019)](photos/IMG_20190523_151734.jpg){group="my-gallery"}
+
+
+
+
 :::
+
+
+
