@@ -9,7 +9,7 @@ lightbox: auto
 
 ### Hi!
 
-I'm a postdoctoral researcher at the  [Vizentin-Bugoni Lab](https://sites.google.com/site/vizentinbugoni/) (Institute of Biology, UFPel) in Pelotas (RS), Brazil. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in community ecology, species interaction, ecosystem processes, and ecological modeling.
+I'm a postdoctoral researcher at the [Ecological Interactions Lab](https://sites.google.com/site/vizentinbugoni/) led by [Dr. Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people) (Institute of Biology, UFPel) in Pelotas (RS), Brazil. I was born in Colombia and started my career hoping to become an agronomist, but somehow I ended up as a biologist interested in community ecology, species interaction, ecosystem processes, and ecological modeling.
 
 I created this website to share my work and my general interests outside academic formality.
 
