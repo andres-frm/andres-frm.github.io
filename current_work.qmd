@@ -12,7 +12,18 @@ lightbox: auto
 ![](photos/bat_network_posterior.gif){fig-align="center" width="275" group="my-gallery"}
 ![](photos/time_series.jpg){fig-align="center" width="350" group="my-gallery"}
 
-Ecological communities are dynamic organizations of organisms whose structure is function of environmental and biological cycles affecting species composition and abundance. Such ecological regularities affects species interactions due to changes on the availability of suitable interaction partners, which ultimately impacts ecological processes in which the species are involved. We know little about the temporal dynamic of species interactions, and we lack mechanistic understanding on how climatic regularities interact with biological responses of the species to explaing the structure of ecological networks. In this project we use seed dispersal interaction networks in Hawaii islands
+Ecological communities are dynamic organizations of organisms whose structure is a function of environmental and biological cycles affecting species composition and abundance. Such ecological regularities affect species interactions due to changes in the availability of suitable interaction partners, which ultimately impacts ecological processes in which the species are involved. We know little about the temporal dynamic of species interactions, and we lack a mechanistic understanding of how climatic regularities interact with the biological responses of the species to explain the structure of ecological networks. In this project, we will address these questions by studying seed dispersal networks in Hawaiian islands.
+
+My work is part of a much larger project studying novel ecosystems, which involves several researchers and institutions (visit the website of the [Hawaii VINE Project](https://www.tarwaterlab.com/hawaii-vine-project)). But I am more closely working with [Dr. Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people), [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members) and [Dr. J. Patrick Kelley](https://scholar.google.ca/citations?user=icU-Z0wAAAAJ&hl=en).
+
+Here are some related papers produced by Jef, Patrick, and Corey:
+
+::: {.border}
+
+-   Vizentin-Bugoni, J., Tarwater, C. E., Foster, J. T., Drake, D. R., Gleditsch, J. M., Hruska, A. M., Patrick Kelley, J., & Sperry, J. H. (2019). Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawai’i. In Science (Vol. 364). <http://science.sciencemag.org/>
+
+-   Vizentin-Bugoni, J., Sperry, J. H., Kelley, J. P., Foster, J. T., Drake, D. R., Case, S. B., Gleditsch, J. M., Hruska, A. M., Wilcox, R. C., & Tarwater, C. E. (2022). Mechanisms underlying interaction frequencies and robustness in a novel seed dispersal network: Lessons for restoration. Proceedings of the Royal Society B: Biological Sciences, 289(1982). <https://doi.org/10.1098/rspb.2022.1490>
+:::
 
 \
 
@@ -22,11 +33,11 @@ Ecological communities are dynamic organizations of organisms whose structure is
 
 Ecological networks are dynamic systems governed by periodical biotic and abiotic processes. Such factors operate at particular temporal scales and involve synergies that drive community structure and ecosystem functioning. In this research, we studied how the direct and indirect effects of biotic and abiotic factors affected the structure of non-trophic interaction networks in tropical forests. To do so, we used ant-follower birds as a model system: a bird aggregation specialized in following army ants to increase its foraging efficiency. 
 
-This research is part of the project [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project) led by [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members). Overall, we use observational and manipulative experiments and advanced modeling techniques to understand the factors responsible for structuring ant-followers groups in Panama's tropical forest. 
+This research is part of the project [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project) led by [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members) and [Dr. J. Patrick Kelley](https://scholar.google.ca/citations?user=icU-Z0wAAAAJ&hl=en). Overall, we use observational and manipulative experiments and advanced modeling techniques to understand the factors responsible for structuring ant-followers groups in Panama's tropical forest. 
 
 You can find a press article about the project [here](https://stri.si.edu/story/following-swarm), and a very nice video about the fieldwork [here](https://www.youtube.com/watch?v=RGPsXSMErWE).
 
-This research is part of my work at the [Ecological Interactions Lab](https://sites.google.com/site/vizentinbugoni/) led by [Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people).
+This research is part of my work at the [Ecological Interactions Lab](https://sites.google.com/site/vizentinbugoni/) led by [Dr. Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people).
 
 ### Low opportunity cost areas in large-scale monoculture for pollinator conservation (2023-current)
 
