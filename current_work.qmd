@@ -10,9 +10,9 @@ lightbox: auto
 ### Mechanims explaining temporal dynamics of seed dispersal networks in island ecosystems
 
 ![](photos/bat_network_posterior.gif){fig-align="center" width="275" group="my-gallery"}
-![](photos/time_series.jpg){fig-align="center" width="275" group="my-gallery"}
+![](photos/time_series.jpg){fig-align="center" width="325" group="my-gallery"}
 
-Ecological communities are dynamic organizations of organisms whose structure is function of environmental and biological cycles defining species composition and abundance. 
+Ecological communities are dynamic organizations of organisms whose structure is function of environmental and biological cycles defining species composition and abundance. Such ecological regularities results in variations 
 
 \
 
