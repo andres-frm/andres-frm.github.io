@@ -42,7 +42,7 @@ I am an ecologist with a deep curiosity for understanding how species interactio
 
 ![My babies, Iris (left) and Ziggy (right)](photos/IMG_1347.jpg){group="my-gallery"}
 
-![Natalia (my wife) and me (Cafallate - Argentina, 2021)](photos/IMG_8753.jpg){group="my-gallery"}
+![Natalia (my wife) and me (Cafayate - Argentina, 2021)](photos/IMG_8753.jpg){group="my-gallery"}
 
 ![*Chlorostilbon lucidus*, (Blueberry field, Argentina 2022)](photos/DSCN3099.jpg){group="my-gallery"}
 
