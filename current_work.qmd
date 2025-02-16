@@ -7,7 +7,7 @@ lightbox: auto
 
 # Current projects
 
-### Mechanims explaining temporal dynamics of seed dispersal networks in island ecosystems
+### Mechanims explaining temporal dynamics of seed dispersal networks in island ecosystems (2025-current)
 
 ![](photos/bat_network_posterior.gif){fig-align="center" width="275" group="my-gallery"}
 ![](photos/time_series.jpg){fig-align="center" width="350" group="my-gallery"}
@@ -16,7 +16,7 @@ Ecological communities are dynamic organizations of organisms whose structure is
 
 \
 
-### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forest
+### Biotic and abiotic drivers of the structure of non-trophic interaction networks in tropical forest (2024-current)
 
 ![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/figure1.jpg){fig-align="center" width="550"}
 
