@@ -83,7 +83,7 @@ tibble(y = c('First author', 'Coauthorships'),
 :::{}
 -   Kimberley Jordan ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing the space-for-time assumption: precipitation effects on avian body condition across scales. **Role: coauthor, data analysis**
 -   Elizabeth Howard ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. **Role: coauthor, data analysis**
--   **Ramírez-Mejía A. F.** Drivers of rarity and commonness in Neotropical bats: the role of the landscape, functional traits and intraspecific functional space. **Role: first author**
+-   **Ramírez-Mejía A. F.** Biotic and abiotic drivers of species rarity: the role of morphological traits, functional hypervolume and landscape context. **Role: first author**
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Morphometrics as a tool for undestanding morphological variation and supporting taxonomic decisions in *Prionopelta* Mayr 1866 (Formicidae: Amblyoponinae). **Role: coauthor, data analysis**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Optimizing measurement effort in taxonomic studies on Formicidae. **Role: coauthor, data analysis**
