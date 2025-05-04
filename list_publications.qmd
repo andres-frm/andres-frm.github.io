@@ -75,7 +75,9 @@ tibble(y = c('First author', 'Coauthorships'),
 :::{}
 -   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology*. **Role: first author**
 
--   Laura Gómez-Murillo ... ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Proceedings of the Royal Society B*. **Role: coauthor, data analysis**
+-   Laura Gómez-Murillo ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oikos*. **Role: coauthor, data analysis**
+
+-   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic drivers modulate the functional diversity of frugivorous birds interacting with individual trees within a population. *Journal: Oikos*. **Role: coauthor, data analysis**
 :::
 
 ### Manuscript in preparation
@@ -83,7 +85,7 @@ tibble(y = c('First author', 'Coauthorships'),
 :::{}
 -   Kimberley Jordan ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing the space-for-time assumption: precipitation effects on avian body condition across scales. **Role: coauthor, data analysis**
 -   Elizabeth Howard ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. **Role: coauthor, data analysis**
--   **Ramírez-Mejía A. F.** Biotic and abiotic drivers of species rarity: the role of morphological traits, functional hypervolume and landscape context. **Role: first author**
+-   **Ramírez-Mejía A. F.** Drivers of abundance-based rarity: the role of morphological traits, functional hypervolume and landscape context. **Role: first author**
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Morphometrics as a tool for undestanding morphological variation and supporting taxonomic decisions in *Prionopelta* Mayr 1866 (Formicidae: Amblyoponinae). **Role: coauthor, data analysis**
 -   Ladino, N., **Ramírez-Mejía A. F.**, et al. Optimizing measurement effort in taxonomic studies on Formicidae. **Role: coauthor, data analysis**
