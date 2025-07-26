@@ -1,8 +1,5 @@
 ---
 title: "About me"
-filters:
-   - lightbox
-lightbox: auto
 ---
 
 ![](photos/IMG_8708.jpg){fig-align="center" width="319"}

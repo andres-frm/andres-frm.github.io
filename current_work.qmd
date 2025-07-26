@@ -1,8 +1,5 @@
 ---
 title: "Projects "
-filters:
-   - lightbox
-lightbox: auto
 ---
 
 # Current projects

@@ -1,8 +1,5 @@
 ---
 title: "CV"
-filters:
-   - lightbox
-lightbox: auto
 ---
 
 ![](photos/IMG_4890.jpg){fig-align="center" width="35%"}
