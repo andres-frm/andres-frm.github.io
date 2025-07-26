@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Andrés F. Ramírez-Mejía"
-  search: false
+  search: true
   back-to-top-navigation: true
   page-footer: 
     left: "Copyright: 2025 Design by A.F. Ramírez-Mejía" 
