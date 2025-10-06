@@ -80,17 +80,21 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Laura Gómez-Murillo ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
 
+-   Elizabeth Howard ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. **Role: coauthor, data analysis**
+
 :::
 
 ### Manuscript in preparation
 
 :::{}
 -   Kimberley Jordan ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing the space-for-time assumption: precipitation effects on avian body condition across scales. **Role: coauthor, data analysis**
--   Elizabeth Howard ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. **Role: coauthor, data analysis**
 -   **Ramírez-Mejía A. F.**, Francisco Sánchez, J. Nicolás Urbina-Cardona & Natalia Ladino. Morphological traits and intraspecific functional hypervolume drive the prevalence of low-abundance species in bat assemblages?. **Role: first author**
+
+- Mauro Galetti,... **Ramírez-Mejía A. F.**... Measuring the macroecological and local effects on plant-animal interaction using artificial fruits. **Role: coauthor, data analysis**
+
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 
--  **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle Sperry, Jeff Foster, Donald R. Drake, J., & Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks in a novel ecosystem: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. **Role: first author**
+-  **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle Sperry, Jeff Foster, Donald R. Drake, J., & Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. **Role: first author**
 :::
 
 
