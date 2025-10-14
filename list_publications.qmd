@@ -71,7 +71,7 @@ tibble(y = c('First author', 'Coauthorships'),
 
 ### Accepted
 
--   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic drivers modulate the functional diversity of frugivorous birds interacting with individual trees within a population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
+-   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic driversshape frugivore functional diversity within a tree population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
 
 ### Articles under review
 
@@ -81,6 +81,8 @@ tibble(y = c('First author', 'Coauthorships'),
 -   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
 
 -   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. **Journal: Behavioral Ecology** .**Role: coauthor, data analysis**
+
+-  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. **Journal: Proceedings of the Royal Society B: Biological Sciences**. **Role: coauthor, data analysis**
 
 :::
 
