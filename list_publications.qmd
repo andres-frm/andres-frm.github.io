@@ -71,7 +71,7 @@ tibble(y = c('First author', 'Coauthorships'),
 
 ### Accepted
 
--   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic driversshape frugivore functional diversity within a tree population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
+-   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
 
 ### Articles under review
 
@@ -84,19 +84,26 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. **Journal: Proceedings of the Royal Society B: Biological Sciences**. **Role: coauthor, data analysis**
 
+-   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes.**Journal: Journal of Animal Ecology**. **Role: first author**
+
+-   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Andrés F. Ramírez-Mejía**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. **Journal: Oecologia**. **Role: coauthor, data analysis**
+
+-  **Andrés F. Ramírez-Mejía**, Francisco Sánchez, J. Nicolás Urbina-Cardona & Natalia Ladino. Functional divergence drives the prevalence of low-abundance species in bat assemblages. **Journal: Functional Ecology**. **Role: first author**
+
+
 :::
 
 ### Manuscript in preparation
 
 :::{}
--   Kimberley Jordan ... **Ramírez-Mejía A. F.**..., Corey E. Tarwater. Testing the space-for-time assumption: precipitation effects on avian body condition across scales. **Role: coauthor, data analysis**
--   **Ramírez-Mejía A. F.**, Francisco Sánchez, J. Nicolás Urbina-Cardona & Natalia Ladino. Morphological traits and intraspecific functional hypervolume drive the prevalence of low-abundance species in bat assemblages?. **Role: first author**
 
-- Mauro Galetti,... **Ramírez-Mejía A. F.**... Measuring the macroecological and local effects on plant-animal interaction using artificial fruits. **Role: coauthor, data analysis**
+
+-   Mauro Galetti,... **Ramírez-Mejía A. F.**... Measuring the macroecological and local effects on plant-animal interaction using artificial fruits. **Role: coauthor, data analysis**
 
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 
--  **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle Sperry, Jeff Foster, Donald R. Drake, J., & Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. **Role: first author**
+-   Mary De Aquino1, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz1, Jeferson Vizentin-Bugoni  & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Role: review**
+
 :::
 
 
