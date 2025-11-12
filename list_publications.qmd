@@ -86,8 +86,6 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Journal of Animal Ecology*. **Role: first author**
 
--   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Andrés F. Ramírez-Mejía**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
-
 -  **Andrés F. Ramírez-Mejía**, Francisco Sánchez, J. Nicolás Urbina-Cardona & Natalia Ladino. Functional divergence drives the prevalence of low-abundance species in bat assemblages. *Journal: Functional Ecology*. **Role: first author**
 
 
