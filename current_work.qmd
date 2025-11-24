@@ -13,9 +13,11 @@ Ecological communities are dynamic organizations of organisms whose structure is
 
 My work is part of a much larger project studying novel ecosystems, which involves several researchers and institutions (visit the website of the [Hawaii VINE Project](https://www.tarwaterlab.com/hawaii-vine-project)). But I am more closely working with [Dr. Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people), [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members) and [Dr. J. Patrick Kelley](https://scholar.google.ca/citations?user=icU-Z0wAAAAJ&hl=en).
 
-Here are some related papers produced by Jef, Patrick, and Corey:
+Related papers publications:
 
 ::: {.border}
+
+-   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Journal of Animal Ecology*. **Role: first author**
 
 -   Vizentin-Bugoni, J., Tarwater, C. E., Foster, J. T., Drake, D. R., Gleditsch, J. M., Hruska, A. M., Patrick Kelley, J., & Sperry, J. H. (2019). Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawai’i. In Science (Vol. 364). <http://science.sciencemag.org/>
 
@@ -35,6 +37,20 @@ This research is part of the project [Army Ant Followers Project](https://www.ta
 You can find a press article about the project [here](https://stri.si.edu/story/following-swarm), and a very nice video about the fieldwork [here](https://www.youtube.com/watch?v=RGPsXSMErWE).
 
 This research is part of my work at the [Ecological Interactions Lab](https://sites.google.com/site/vizentinbugoni/) led by [Dr. Jef Vizentin-Bugoni](https://sites.google.com/site/vizentinbugoni/home/people).
+
+Related papers publications:
+
+::: {.border}
+
+-   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology*. **Role: first author**
+
+-   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
+
+-   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. *Journal: Behavioral Ecology* .**Role: coauthor, data analysis**
+
+-  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. *Journal: Proceedings of the Royal Society B: Biological Sciences*. **Role: coauthor, data analysis**
+:::
+
 
 ### Low opportunity cost areas in large-scale monoculture for pollinator conservation (2023-current)
 
