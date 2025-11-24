@@ -19,9 +19,6 @@ Related papers publications:
 
 -   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Journal of Animal Ecology (under review)*. **Role: first author**
 
--   Vizentin-Bugoni, J., Tarwater, C. E., Foster, J. T., Drake, D. R., Gleditsch, J. M., Hruska, A. M., Patrick Kelley, J., & Sperry, J. H. (2019). Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawai’i. In Science (Vol. 364). <http://science.sciencemag.org/>
-
--   Vizentin-Bugoni, J., Sperry, J. H., Kelley, J. P., Foster, J. T., Drake, D. R., Case, S. B., Gleditsch, J. M., Hruska, A. M., Wilcox, R. C., & Tarwater, C. E. (2022). Mechanisms underlying interaction frequencies and robustness in a novel seed dispersal network: Lessons for restoration. Proceedings of the Royal Society B: Biological Sciences, 289(1982). <https://doi.org/10.1098/rspb.2022.1490>
 :::
 
 \
