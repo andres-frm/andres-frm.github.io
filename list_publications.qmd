@@ -73,12 +73,12 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
 
+-   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
+
 ### Articles under review
 
 :::{}
 -   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology*. **Role: first author**
-
--   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
 
 -   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. *Journal: Behavioral Ecology* .**Role: coauthor, data analysis**
 
@@ -95,12 +95,13 @@ tibble(y = c('First author', 'Coauthorships'),
 
 :::{}
 
-
 -   Mauro Galetti,... **Ramírez-Mejía A. F.**... Measuring the macroecological and local effects on plant-animal interaction using artificial fruits. **Role: coauthor, data analysis**
 
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 
--   Mary De Aquino1, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz1, Jeferson Vizentin-Bugoni  & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Role: review**
+-   Mary De Aquino, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz1, Jeferson Vizentin-Bugoni  & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Role: review**
+
+-   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Functional divergence structures species roles and pairwise interactions in Hawaiian seed-dispersal networks. **Role: first author**
 
 :::
 
