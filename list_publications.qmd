@@ -9,7 +9,8 @@ Feel free to contact me if you request a copy or have comments to any work.
 sapply(c('tibble', 'kableExtra', 'ggplot2'), 
        function(x) library(x, character.only = T))
 
-arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Coathor, 
+arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Coauthor, 
+        1, 'Laura Gómez-Murillo, ..., Ramírez-Mejía A. F., Corey E. Tarwater.', 2026, 'Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds', 'Oecologia', 208:34, '10.1007/s00442-026-05869-7', T,
         1, 'Ramírez-Mejía, A. F. et al.', 2024, 'How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop', 'Ecological Modelling', '498', '10.1016/j.ecolmodel.2024.110891', F, 
         1, 'Monasterologo, M, Ramírez-Mejía, A. F., et al.', 2024, 
         'Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar', 'Scientific reports', 
@@ -72,8 +73,6 @@ tibble(y = c('First author', 'Coauthorships'),
 ### Accepted
 
 -   Juliana Wolter ... **Ramírez-Mejía A. F.**..., Rafael Dias. Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population. *Journal: Ecosphere*. **Role: coauthor, data analysis**
-
--   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
 
 ### Articles under review
 
