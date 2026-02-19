@@ -94,7 +94,7 @@ tibble(y = c('First author', 'Coauthorships'),
 
 :::{}
 
--   Mauro Galetti,... **Ramírez-Mejía A. F.**... Measuring the macroecological and local effects on plant-animal interaction using artificial fruits. **Role: coauthor, data analysis**
+-   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Island Biogeography Shapes Fruit-Frugivore Interactions. **Role: coauthor, data analysis**
 
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
 
