@@ -17,7 +17,7 @@ Related papers publications:
 
 ::: {.border}
 
--   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Journal of Animal Ecology (under review)*. **Role: first author**
+-   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Ecology (under review)*. **Role: first author**
 
 :::
 
@@ -41,7 +41,7 @@ Related papers publications:
 
 -   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology (under review)*. **Role: first author**
 
--   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia (under review)*. **Role: coauthor, data analysis**
+-   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
 
 -   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. *Journal: Behavioral Ecology (under review)* .**Role: coauthor, data analysis**
 
