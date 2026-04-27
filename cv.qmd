@@ -7,6 +7,8 @@ title: "CV"
 ### Education
 
 :::{}
+- MBA. Data Science, 2027. University of São Paulo.
+
 - Ph.D. Biological Sciences, 2023. National University of Tucumán, Argentina.
 
 - M.Sc. Conservation and Use of Biodiversity, 2017. Pontifical Javeriana University, Colombia (cum laude).

@@ -10,6 +10,7 @@ sapply(c('tibble', 'kableExtra', 'ggplot2'),
        function(x) library(x, character.only = T))
 
 arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Coauthor, 
+                1, 'Ramírez-Mejía A. F. et al.', 2026, "Functional divergence drives the prevalence of low-abundance species in bat assemblages", 'Functional ecology', 'XXX', '10.1111/1365-2435.70333', F,
         1, 'Juliana Wolter ... Ramírez-Mejía A. F. ..., Rafael Dias.', 2026, 'Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population', 'Ecosphere', '(17)24', '10.1002/ecs2.70453', T, 
         1, 'Laura Gómez-Murillo, ..., Ramírez-Mejía A. F., Corey E. Tarwater.', 2026, 'Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds', 'Oecologia', '208:34', '10.1007/s00442-026-05869-7', T,
         1, 'Ramírez-Mejía, A. F. et al.', 2024, 'How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop', 'Ecological Modelling', '498', '10.1016/j.ecolmodel.2024.110891', F, 
@@ -73,7 +74,6 @@ tibble(y = c('First author', 'Coauthorships'),
 
 ### Accepted
 
--  **Andrés F. Ramírez-Mejía**, Francisco Sánchez, J. Nicolás Urbina-Cardona & Natalia Ladino. Functional divergence drives the prevalence of low-abundance species in bat assemblages. *Journal: Functional Ecology*. **Role: first author**
 
 ### Articles under review
 
