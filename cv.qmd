@@ -20,7 +20,7 @@ title: "CV"
 
 Postdoctoral researcher with double affiliation: Department of Ecology, Zoology and Genetics, Institute of Biology, Universidade Federal de Pelotas; Department of Zoology & Physiology, University of Wyoming. *Projects*: [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project), and [Hawaii-VINE. Project](https://www.tarwaterlab.com/hawaii-vine-project)
 
-You can find the full version of mi CV [here (english)](https://github.com/andres-frm/curriculum_vitae/blob/main/cv_eng/cv_eng.pdf) or [here (spanish)](https://github.com/andres-frm/curriculum_vitae/blob/main/cvESP/cvESP.pdf). You can reach me at `andresfeliper.mejia@gmail.com`.
+You can find the full version of mi CV [here (english)](https://github.com/andres-frm/curriculum_vitae/blob/main/cv_eng/cv_eng.pdf), [here (spanish)](https://github.com/andres-frm/curriculum_vitae/blob/main/cvESP/cvESP.pdf), or [here (spanish)](https://github.com/andres-frm/curriculum_vitae/blob/main/cv_portugese.pdf). You can reach me at `andresfeliper.mejia@gmail.com`.
 
 ### Academic profiles
 
