@@ -11,7 +11,7 @@ sapply(c('tibble', 'kableExtra', 'ggplot2'),
 
 arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Coauthor,
                 1, 'Pulido-Guarín, H., ... Ramírez-Mejía A. F., Galindo-Cardona, A.', 2026, "Three methods for measuring the Earth's magnetic field intensity in Apis mellifera drone congregation areas.", 'Environmental Entomology', '(55)3', '10.1093/ee/nvag056', T,
-                1, 'Ramírez-Mejía A. F. et al.', 2026, "Functional divergence drives the prevalence of low-abundance species in bat assemblages", 'Functional ecology', 'XXX', '10.1111/1365-2435.70333', F,
+                1, 'Ramírez-Mejía A. F. et al.', 2026, "Functional divergence drives the prevalence of low-abundance species in bat assemblages", 'Functional ecology', '40(6)', '10.1111/1365-2435.70333', F,
         1, 'Juliana Wolter ... Ramírez-Mejía A. F. ..., Rafael Dias.', 2026, 'Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population', 'Ecosphere', '(17)24', '10.1002/ecs2.70453', T, 
         1, 'Laura Gómez-Murillo, ..., Ramírez-Mejía A. F., Corey E. Tarwater.', 2026, 'Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds', 'Oecologia', '208:34', '10.1007/s00442-026-05869-7', T,
         1, 'Chacoff, N., ..., Ramírez-Mejía, A. F., et. al.', 2023, 'Book - Hacia una agricultura sustentable: ¿Por qué nos importa la biodiversidad? In: Brown, A., & Sánchez, E. Argentina Sustentable: El Norte Grande. 1. ed.', 'ISBN 978-631-90041-4-4', NA, 'https://heyzine.com/flip-book/8ee211f45a.html#page/1', T, 
