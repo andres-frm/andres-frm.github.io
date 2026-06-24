@@ -24,8 +24,6 @@ I’m an ecologist with a deep curiosity for understanding how species interacti
 -   Ecosystem services
 -   Community ecology
 -   Functional diversity
--   R programming
--   Bayesian statistics
 
 ### What I like/love
 
