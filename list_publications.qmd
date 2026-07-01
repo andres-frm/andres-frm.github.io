@@ -1,6 +1,15 @@
 ---
 title: "Publications"
+resources:
+  - photos/pollination_banner.jpg
 ---
+
+::: {.page-banner style="background-image: linear-gradient(to bottom, rgba(30,32,15,0) 45%, rgba(30,32,15,0.7) 100%), url('photos/pollination_banner.jpg'); background-position: center 68%;"}
+<div class="page-banner-text">
+<h1>Publications</h1>
+<p>Peer-reviewed articles, book chapters &amp; datasets</p>
+</div>
+:::
 
 Feel free to contact me if you request a copy or have comments to any work.
 

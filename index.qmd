@@ -1,9 +1,15 @@
 ---
 title: "About me"
+resources:
+  - photos/frugivory_banner.jpg
 ---
 
-![](photos/IMG_8708.jpg){fig-align="center" width="319"}
-
+::: {.page-banner style="background-image: linear-gradient(to bottom, rgba(30,32,15,0) 45%, rgba(30,32,15,0.7) 100%), url('photos/frugivory_banner.jpg'); background-position: center 12%;"}
+<div class="page-banner-text">
+<h1>Andrés F. Ramírez-Mejía</h1>
+<p>Ecologist — species interactions, ecosystem processes &amp; ecological modeling</p>
+</div>
+:::
 
 ### Hi!
 

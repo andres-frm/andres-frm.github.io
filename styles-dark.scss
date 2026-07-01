@@ -95,6 +95,46 @@ a:hover {
   font-size: 0.85rem;
 }
 
+// Page banner — background image with gradient overlay + title.
+// background-image and background-position are set per-page via inline style.
+.page-banner {
+  height: 280px;
+  border-radius: 8px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.page-banner-text {
+  padding: 1.25rem 1.5rem;
+
+  h1 {
+    font-family: $font-family-sans-serif;
+    color: $vintage-cream-txt !important;
+    font-size: 1.9rem;
+    font-weight: 700;
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  }
+
+  p {
+    margin: 0;
+    font-size: 1rem;
+    color: #f0e6c8;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  }
+}
+
+@media (max-width: 576px) {
+  .page-banner { height: 190px; }
+  .page-banner-text h1 { font-size: 1.35rem; }
+  .page-banner-text p { font-size: 0.85rem; }
+}
+
 // Figures
 .quarto-figure img,
 p > img {
