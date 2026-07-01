@@ -1,5 +1,5 @@
 ---
-title: "Projects "
+title: "Projects"
 ---
 
 # Current projects
@@ -27,9 +27,9 @@ Related papers publications:
 
 ![Causal model explaining network structure of ant-followers interaction networks in tropical forest.](photos/figure1.jpg){fig-align="center" width="550"}
 
-Ecological networks are dynamic systems governed by periodical biotic and abiotic processes. Such factors operate at particular temporal scales and involve synergies that drive community structure and ecosystem functioning. In this research, we studied how the direct and indirect effects of biotic and abiotic factors affected the structure of non-trophic interaction networks in tropical forests. To do so, we used ant-follower birds as a model system: a bird aggregation specialized in following army ants to increase its foraging efficiency. 
+Ecological networks are dynamic systems governed by periodical biotic and abiotic processes. Such factors operate at particular temporal scales and involve synergies that drive community structure and ecosystem functioning. In this research, we studied how the direct and indirect effects of biotic and abiotic factors affected the structure of non-trophic interaction networks in tropical forests. To do so, we used ant-follower birds as a model system: a bird aggregation specialized in following army ants to increase its foraging efficiency.
 
-This research is part of the project [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project) led by [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members) and [Dr. J. Patrick Kelley](https://scholar.google.ca/citations?user=icU-Z0wAAAAJ&hl=en). Overall, we use observational and manipulative experiments and advanced modeling techniques to understand the factors responsible for structuring ant-followers groups in Panama's tropical forest. 
+This research is part of the project [Army Ant Followers Project](https://www.tarwaterlab.com/copy-of-panama-plumas-project) led by [Dr. Corey Tarwater](https://www.tarwaterlab.com/team-members) and [Dr. J. Patrick Kelley](https://scholar.google.ca/citations?user=icU-Z0wAAAAJ&hl=en). Overall, we use observational and manipulative experiments and advanced modeling techniques to understand the factors responsible for structuring ant-followers groups in Panama's tropical forest.
 
 You can find a press article about the project [here](https://stri.si.edu/story/following-swarm), and a very nice video about the fieldwork [here](https://www.youtube.com/watch?v=RGPsXSMErWE).
 
@@ -100,9 +100,9 @@ ii. Optimal pollination thresholds to maximize blueberry production.
 
 iii. Individual and population effectiveness of birds and insects pollinating blueberries.
 
-iv. Cascading processes affecting pollination service, from landscape to farming area.  
+iv. Cascading processes affecting pollination service, from landscape to farming area.
 :::
- 
+
 This work was part of [SURPASS2](https://bee-surpass.org), an international collaboration between institutions of Argentina, Brazil, Chile and the UK, to research crop pollination service, invasive species and land cover mapping in South America.
 
 

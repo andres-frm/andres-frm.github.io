@@ -6,19 +6,22 @@ website:
   title: "Andrés F. Ramírez-Mejía"
   search: true
   back-to-top-navigation: true
-  page-footer: 
-    left: "Copyright: 2025 Design by A.F. Ramírez-Mejía" 
-    center: 
+  page-footer:
+    left: "© 2026 Andrés F. Ramírez-Mejía"
+    center:
+      - icon: envelope
+        href: mailto:andresfeliper.mejia@gmail.com
       - icon: github
-        href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
+        href: https://github.com/andres-frm
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=5NIPofoAAAAJ&hl=es
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-1986-2458
   navbar:
-    background: '#5D6D7E'
     search: true
     right:
       - href: index.qmd
-        text: About me
+        text: About
       - cv.qmd
       - list_publications.qmd
       - current_work.qmd
@@ -27,11 +30,11 @@ website:
 format:
   html:
     lightbox: true
-    mainfont: Times New Roman
     theme:
-     light: flatly
-     dark: darkly
-    css: styles.css
+     light: [flatly, styles.scss]
+     dark: [darkly, styles-dark.scss]
     toc: true
+    grid:
+      body-width: 850px
 
 

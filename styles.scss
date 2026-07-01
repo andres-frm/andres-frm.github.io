@@ -1,0 +1,127 @@
+/*-- scss:defaults --*/
+
+// Fonts: a readable serif for body copy (fits an academic/field-ecology site)
+// paired with a clean sans-serif for headings and UI chrome.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-serif: "Lora", Georgia, "Times New Roman", serif !default;
+
+$headings-font-family: $font-family-sans-serif !default;
+$headings-font-weight: 600 !default;
+
+// Vintage "olive & mustard" palette — light mode
+$vintage-bg:        #f6f1e2 !default; // warm cream page background
+$vintage-bg-alt:    #eee6d0 !default; // slightly deeper cream for cards/code blocks
+$vintage-text:      #34301f !default; // deep warm brown, high contrast on cream
+$vintage-heading:   #3f4d2b !default; // dark olive for headings
+$vintage-olive:     #46542f !default; // deep olive for navbar/footer
+$vintage-olive-dk:  #3a4526 !default; // darker olive for footer
+$vintage-mustard:   #a9740f !default; // mustard/gold for links & accents
+$vintage-cream-txt: #f4efdd !default; // cream text on olive backgrounds
+$vintage-caption:   #6b6250 !default; // muted warm brown for captions
+
+$body-bg:    $vintage-bg !default;
+$body-color: $vintage-text !default;
+$link-color: $vintage-mustard !default;
+
+$min-contrast-ratio: 4.5 !default;
+$enable-rounded: true !default;
+
+/*-- scss:rules --*/
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: $font-family-serif;
+  background-color: $vintage-bg;
+  color: $vintage-text;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  color: $vintage-heading;
+}
+
+.navbar, .navbar-brand, nav, .nav-link, .btn, .quarto-title-banner {
+  font-family: $font-family-sans-serif;
+}
+
+h3 {
+  margin-top: 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  padding-bottom: 0.35rem;
+}
+
+a {
+  color: $vintage-mustard;
+  text-decoration: none;
+}
+a:hover {
+  color: darken($vintage-mustard, 10%);
+  text-decoration: underline;
+}
+
+// Navbar (upper band) — deep olive with cream text for strong contrast
+.navbar {
+  background-color: $vintage-olive !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar-nav .nav-link,
+.navbar .quarto-navigation-tool,
+.navbar-toggler-icon {
+  color: $vintage-cream-txt !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #f0d9a8 !important;
+}
+
+// Footer (bottom band) — matching deep olive
+.page-footer, footer.footer {
+  background-color: $vintage-olive-dk !important;
+  color: $vintage-cream-txt !important;
+}
+.page-footer a, footer.footer a {
+  color: #f0d9a8 !important;
+}
+.page-footer {
+  font-size: 0.85rem;
+}
+
+// Figures: soft rounded corners + subtle shadow, and a legible italic caption
+.quarto-figure img,
+p > img {
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.18);
+}
+
+figcaption, .figure-caption {
+  font-style: italic;
+  color: $vintage-caption;
+  font-size: 0.9rem;
+}
+
+// Publication / project reference blocks
+.border {
+  border-left: 3px solid $vintage-mustard;
+  padding-left: 1rem;
+  margin: 0.75rem 0 1.25rem 0;
+  font-size: 0.95rem;
+}
+
+// Progress bars (kept from previous stylesheet)
+.progress {
+  .progress-bar {
+    font-size: 8px;
+    line-height: 8px;
+  }
+}
