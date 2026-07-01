@@ -6,7 +6,7 @@ Feel free to contact me if you request a copy or have comments to any work.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
 
-sapply(c('tibble', 'kableExtra', 'ggplot2'), 
+sapply(c('tibble', 'DT', 'ggplot2'),
        function(x) library(x, character.only = T))
 
 arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Coauthor,
@@ -14,7 +14,7 @@ arts <- tribble(~id, ~ Author, ~Year, ~Title, ~Journal, ~`Vol. ISSUE`, ~doi, ~Co
                 1, 'Ramírez-Mejía A. F. et al.', 2026, "Functional divergence drives the prevalence of low-abundance species in bat assemblages", 'Functional ecology', '40(6)', '10.1111/1365-2435.70333', F,
         1, 'Juliana Wolter ... Ramírez-Mejía A. F. ..., Rafael Dias.', 2026, 'Intrinsic and extrinsic drivers shape frugivore functional diversity within a tree population', 'Ecosphere', '(17)24', '10.1002/ecs2.70453', T, 
         1, 'Laura Gómez-Murillo, ..., Ramírez-Mejía A. F., Corey E. Tarwater.', 2026, 'Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds', 'Oecologia', '208:34', '10.1007/s00442-026-05869-7', T,
-        1, 'Chacoff, N., ..., Ramírez-Mejía, A. F., et. al.', 2023, 'Book - Hacia una agricultura sustentable: ¿Por qué nos importa la biodiversidad? In: Brown, A., & Sánchez, E. Argentina Sustentable: El Norte Grande. 1. ed.', 'ISBN 978-631-90041-4-4', NA, 'https://heyzine.com/flip-book/8ee211f45a.html#page/1', T, 
+        1, 'Chacoff, N., ..., Ramírez-Mejía, A. F., et al.', 2023, 'Book - Hacia una agricultura sustentable: ¿Por qué nos importa la biodiversidad? In: Brown, A., & Sánchez, E. Argentina Sustentable: El Norte Grande. 1. ed.', 'ISBN 978-631-90041-4-4', NA, 'https://heyzine.com/flip-book/8ee211f45a.html#page/1', T, 
         1, 'Ramírez-Mejía, A. F. et al.', 2024, 'How much is enough? Optimizing beehive stocking densities to maximize the production of a pollinator-dependent crop', 'Ecological Modelling', '498', '10.1016/j.ecolmodel.2024.110891', F, 
         1, 'Monasterologo, M, Ramírez-Mejía, A. F., et al.', 2024, 
         'Animal pollination contributes to more than half of Citrus spp. production despite the species and cultivar', 'Scientific reports', 
@@ -44,25 +44,38 @@ arts$id <- nrow(arts):1
 
 
 ```{r, echo=FALSE}
-knitr::kable(arts[, -c(6, ncol(arts))], format = 'html', escape = F, 
-             caption = 'List of published articles') |> 
-  kable_styling(
-    font_size = 10,
-    bootstrap_options = c('hover', 'condensed', 'responsive'),
-    full_width = T
-  ) |> 
-  row_spec(0, extra_css = "text-align: center") |> 
-  column_spec(2, width = '4cm', extra_css = "font-size: 13px; vertical-align: middle;") |> 
-  column_spec(6, extra_css = "font-size: 13px; text-align: center; vertical-align: middle;") |> 
-  column_spec(c(1, 3, 4, 5), extra_css = "text-align: center; vertical-align: middle;") |> 
-  column_spec(1, bold = T)
+arts_dt <- arts
+arts_dt$DOI <- ifelse(
+  grepl('^http', arts_dt$doi),
+  sprintf('<a href="%s" target="_blank" rel="noopener">link</a>', arts_dt$doi),
+  sprintf('<a href="https://doi.org/%s" target="_blank" rel="noopener">%s</a>', arts_dt$doi, arts_dt$doi)
+)
+names(arts_dt)[names(arts_dt) == 'id'] <- '#'
+
+DT::datatable(
+  arts_dt[, c('#', 'Author', 'Year', 'Title', 'Journal', 'DOI')],
+  rownames = FALSE,
+  filter = 'top',
+  class = 'hover row-border stripe',
+  style = 'bootstrap5',
+  caption = 'List of published articles — click a column header to sort, or use the boxes below the headers to filter.',
+  options = list(
+    pageLength = 10,
+    order = list(list(0, 'desc')),
+    columnDefs = list(
+      list(className = 'dt-center', targets = c(0, 2, 5)),
+      list(width = '35%', targets = 3)
+    )
+  ),
+  escape = FALSE
+)
 ```
 
 
 ```{r, eval=FALSE, echo=FALSE, fig.width=5, fig.height=1.5, fig.align='center'}
 
 tibble(y = c('First author', 'Coauthorships'), 
-       x = c(mean(!arts$Coathor), mean(arts$Coathor))) |> 
+       x = c(mean(!arts$Coauthor), mean(arts$Coauthor))) |>
   ggplot(aes(x*100, y)) +
   stat_summary(fun = 'max', geom = 'bar', width = 0.2, 
                fill = 'lightblue2') +
@@ -88,7 +101,7 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Ecology*. **Role: first author**
 
--   Mary De Aquino1, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz1, Jeferson Vizentin-Bugoni  & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Journal of Animal Ecology**. **Role: review**
+-   Mary De Aquino, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Journal of Animal Ecology**. **Role: review**
 
 :::
 
@@ -98,7 +111,7 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Island Biogeography Shapes Fruit-Frugivore Interactions. **Role: coauthor, data analysis**
 
--   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservatio. **Role: first author**
+-   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservation. **Role: first author**
 
 -   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Functional divergence structures species roles and pairwise interactions in Hawaiian seed-dispersal networks. **Role: first author**
 

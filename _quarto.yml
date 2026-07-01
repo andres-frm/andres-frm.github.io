@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Andrés F. Ramírez-Mejía"
+  favicon: favicon.ico
   search: true
   back-to-top-navigation: true
   page-footer:
@@ -36,5 +37,7 @@ format:
     toc: true
     grid:
       body-width: 850px
+    include-in-header:
+      text: '<link rel="apple-touch-icon" href="apple-touch-icon.png">'
 
 

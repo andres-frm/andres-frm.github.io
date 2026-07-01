@@ -118,6 +118,45 @@ figcaption, .figure-caption {
   font-size: 0.95rem;
 }
 
+// Publications table (DT::datatable) — vintage styling
+.dataTables_wrapper {
+  font-family: $font-family-sans-serif;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+
+  caption {
+    caption-side: top;
+    color: $vintage-caption;
+    font-style: italic;
+    font-size: 0.85rem;
+    padding-bottom: 0.5rem;
+  }
+}
+
+table.dataTable {
+  thead th {
+    background-color: $vintage-olive;
+    color: $vintage-cream-txt !important;
+    border-bottom: none !important;
+  }
+  thead input, thead select {
+    font-size: 0.8rem;
+    border: 1px solid $vintage-mustard;
+    border-radius: 4px;
+  }
+  tbody tr:hover {
+    background-color: rgba(169, 116, 15, 0.12) !important;
+  }
+}
+
+.dataTables_wrapper .page-item.active .page-link {
+  background-color: $vintage-mustard !important;
+  border-color: $vintage-mustard !important;
+}
+.dataTables_wrapper .page-link {
+  color: $vintage-heading;
+}
+
 // Progress bars (kept from previous stylesheet)
 .progress {
   .progress-bar {
