@@ -26,7 +26,7 @@ website:
       - cv.qmd
       - list_publications.qmd
       - current_work.qmd
-      - blog_stats.qmd
+      #- blog_stats.qmd
 
 format:
   html:
