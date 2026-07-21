@@ -112,13 +112,13 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Mary De Aquino, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Journal of Animal Ecology**. **Role: review**
 
+-   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Island Biogeography Shapes Fruit-Frugivore Interactions. **Science Advances**. **Role: coauthor, data analysis**
+
 :::
 
 ### Manuscript in preparation
 
 :::{}
-
--   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Island Biogeography Shapes Fruit-Frugivore Interactions. **Role: coauthor, data analysis**
 
 -   **Ramírez-Mejía A. F.**, A. Carolina Monmany, Roxana Aragón, Carolina Cuezzo, Natalia Ladino, Natalí Villalba, A. Carolina Jozami, Alberto Slanis, Mariano Lucia, Leopoldo Alvarez & Natacha P. Chacoff. Low opportunity cost areas in large-scale monoculture for pollinator conservation. **Role: first author**
 
