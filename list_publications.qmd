@@ -100,12 +100,12 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. *Journal: Behavioral Ecology* .**Role: coauthor, data analysis**
 
+-  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. *Journal: Proceedings of the Royal Society B: Biological Sciences*. **Role: coauthor, data analysis**
+
 ### Articles under review
 
 :::{}
 -   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology*. **Role: first author**
-
--  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. *Journal: Proceedings of the Royal Society B: Biological Sciences*. **Role: coauthor, data analysis**
 
 -   **Andrés F. Ramírez-Mejía**, Corey E. Tarwater, J. Patrick Kelley, Jinelle H. Sperry, Jeffrey T. Foster, Donald R. Drake, and Jeferson Vizentin-Bugoni. Temporal dynamics of seed-dispersal networks: Disentangling the role of direct biotic and abiotic factors and bottom-up processes. *Journal: Ecology*. **Role: first author**
 
