@@ -187,7 +187,7 @@ DT::datatable(
   style = 'bootstrap5',
   caption = 'List of code and online datasets — click a column header to sort, or use the boxes below the headers to filter.',
   options = list(
-    pageLength = 10,
+    pageLength = 5,
     order = list(list(0, 'desc')),
     columnDefs = list(
       list(className = 'dt-center', targets = c(0, 2, 4)),
