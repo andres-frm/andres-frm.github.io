@@ -102,6 +102,8 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -  Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey ; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. *Journal: Proceedings of the Royal Society B: Biological Sciences*. **Role: coauthor, data analysis**
 
+-   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Biogeographic constraints structure ecological interaction outcomes across island ecosystems. **Science Advances**. **Role: coauthor, data analysis**
+
 ### Articles under review
 
 :::{}
@@ -110,7 +112,6 @@ tibble(y = c('First author', 'Coauthorships'),
 
 -   Mary De Aquino, Henry S. Pollock, J. Patrick Kelley, **Andrés F. Ramírez-Mejía**, Michael Castaño Díaz, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Species’ roles, specialization, and the factors that influence roles in mixed-species animal groups. **Journal of Animal Ecology**. **Role: review**
 
--   Mauro Galetti, **Ramírez-Mejía A. F.**, et al. Biogeographic constraints structure ecological interaction outcomes across island ecosystems. **Science Advances**. **Role: coauthor, data analysis**
 
 :::
 
