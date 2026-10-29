@@ -132,6 +132,7 @@ tibble(y = c('First author', 'Coauthorships'),
  
 datasets <- tribble(
   ~Author, ~Year, ~Title, ~Repository, ~doi,
+  'Ramírez-Mejía, A. F., De Aquino, M., Castaño-Díaz, M., Wolter Hinz, J., Pollock, H. S., Kelley, P. J., Vizentin-Bugoni, J., & Tarwater, C.', 2026, 'Biotic and abiotic factors directly and indirectly shape mixed-species group structure across a rainfall gradient', 'Zenodo', 'https://doi.org/10.5281/zenodo.22727836',
   'Ramírez-Mejía, A. F., De Aquino, M., Castaño-Díaz, M., Wolter Hinz, J., Pollock, H. S., Kelley, P. J., Vizentin-Bugoni, J., & Tarwater, C.', 2026,
   'Biotic and abiotic factors directly and indirectly shape mixed-species group structure across a rainfall gradient [Dataset]. In Ecology.',
   'Zenodo', 'https://doi.org/10.5281/zenodo.22727836',
