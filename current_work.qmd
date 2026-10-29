@@ -38,11 +38,11 @@ Related publications:
 
 ::: {.border}
 
--   **Ramírez-Mejía A. F.**, Mary De Aquino, Michael Castaño Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni & Corey E. Tarwater. Biotic and abiotic factors directly and indirectly impact the structure of non-trophic networks across a rainfall gradient. *Journal: Ecology (under review)*. **Role: first author**
+-   **Ramírez-Mejía, Andrés F.**, Mary De Aquino, Michael Castaño-Díaz, Juliana Hinz Wolter, Henry S. Pollock, J. Patrick Kelley, Jeferson Vizentin-Bugoni, and Corey E. Tarwater. 2026. “ Biotic and Abiotic Factors Directly and Indirectly Shape Mixed-Species Group Structure across a Rainfall Gradient.” Ecology 107(10): e70578. https://doi.org/10.1002/ecy.70578. **Role: first author**
 
--   Laura Gómez-Murillo, Jeferson Vizentin-Bugoni, **Ramírez-Mejía A. F.**, Corey E. Tarwater. Rainfall alters network structure while fragmentation results in the breakdown of a mixed-species group of birds. *Journal: Oecologia*. **Role: coauthor, data analysis**
+-   Gómez-Murillo, L., Vizentin-Bugoni, J., Ramírez-Mejía, A.F. et al. Rainfall alters network structure, while fragmentation results in the breakdown of a mixed-species group of birds. Oecologia 208, 34 (2026). https://doi.org/10.1007/s00442-026-05869-7 **Role: coauthor, data analysis**
 
--   Elizabeth J. Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S. Pollock, Jefferson Vizentin-Bugoni, and Corey E. Tarwater. Testing long standing assumptions about army ant swarms: how profitability and dominance alter space use in birds. *Journal: Behavioral Ecology (under review)*. **Role: coauthor, data analysis**
+-   Elizabeth J Howard, **Andrés F. Ramírez-Mejía**, Michael Castaño, Mary De Aquino, Henry S Pollock, Jeferson Vizentin-Bugoni, Corey E Tarwater, Dominance and food availability alter avian space use at army ant swarms, Behavioral Ecology, 2026;, arag111, https://doi.org/10.1093/beheco/arag111. **Role: coauthor, data analysis**
 
 -   Jordan, Kimberley; **Ramírez-Mejía, Andrés F**.; Wilcox, Rebecca C.; Brawn, Jeffrey; Alfonso, Camilo; Tarwater, Corey. Testing the space-for-time assumption and the hygric niche hypothesis using precipitation effects on avian body condition. *Journal: Proceedings of the Royal Society B: Biological Sciences (under review)*. **Role: coauthor, data analysis**
 :::
